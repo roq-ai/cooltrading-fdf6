@@ -1,0 +1,3572 @@
+[
+  {
+    "wallet_transactions": [
+      {
+        "id": "643b9597-1279-4a85-bda3-b4d54ffcda06",
+        "created_at": "2023-09-23T03:32:42.891Z",
+        "updated_at": "2023-09-23T17:24:12.813Z"
+      },
+      {
+        "id": "58690607-4fcc-4b5d-85e9-0d3874513f94",
+        "created_at": "2023-09-23T21:13:57.091Z",
+        "updated_at": "2023-09-23T00:14:59.987Z"
+      },
+      {
+        "id": "4bd3802e-8191-4152-9b9c-c2ebb7208e4c",
+        "created_at": "2023-09-23T15:53:32.046Z",
+        "updated_at": "2023-09-23T00:56:48.499Z"
+      },
+      {
+        "id": "14892cf0-05db-4595-bc4d-3adbad90a7e3",
+        "created_at": "2023-09-23T11:18:23.021Z",
+        "updated_at": "2023-09-23T08:44:40.527Z"
+      },
+      {
+        "id": "1108f09f-eca9-4f73-b9ad-527e0b0cd31f",
+        "created_at": "2023-09-23T14:38:55.120Z",
+        "updated_at": "2023-09-23T08:57:51.217Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "f18a13e8-8ac5-4e88-b2d3-f10578288a87",
+        "created_at": "2023-09-23T02:00:42.468Z",
+        "updated_at": "2023-09-23T23:30:02.079Z"
+      },
+      {
+        "id": "1253b394-0260-41c6-889d-04dd1cfc9a92",
+        "created_at": "2023-09-23T09:16:11.550Z",
+        "updated_at": "2023-09-23T15:41:23.144Z"
+      },
+      {
+        "id": "890c8b5f-d9a8-4a3e-bd91-ba189b9a4ba5",
+        "created_at": "2023-09-23T23:11:20.956Z",
+        "updated_at": "2023-09-23T14:30:42.038Z"
+      },
+      {
+        "id": "a3880cc7-089a-4ab7-ad9e-f2e3d17a6847",
+        "created_at": "2023-09-23T17:38:33.392Z",
+        "updated_at": "2023-09-23T20:10:19.879Z"
+      },
+      {
+        "id": "1e4add83-fbc6-4700-ab41-94a2d474e5f9",
+        "created_at": "2023-09-23T14:32:10.319Z",
+        "updated_at": "2023-09-23T09:25:38.281Z"
+      }
+    ],
+    "wallet": [
+      {
+        "id": "5b4df135-7020-4d89-a1d9-ee012d7b6074",
+        "balance": 97426,
+        "created_at": "2023-09-23T08:38:22.049Z",
+        "updated_at": "2023-09-23T21:37:11.707Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d146af49-e108-4b33-abd4-6d10380e32b3",
+        "balance": 11936,
+        "created_at": "2023-09-23T19:43:00.413Z",
+        "updated_at": "2023-09-23T12:55:57.605Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7d87e325-2f20-4f70-ad06-3bbc48c96f5e",
+        "balance": 57090,
+        "created_at": "2023-09-23T19:41:48.774Z",
+        "updated_at": "2023-09-23T18:17:05.267Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "23c29676-114b-4565-8501-10959a5087c9",
+        "balance": 73407,
+        "created_at": "2023-09-23T20:43:54.251Z",
+        "updated_at": "2023-09-23T13:16:32.263Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6d84dd49-f9dd-4e85-ae35-bfd7283818c7",
+        "balance": 57709,
+        "created_at": "2023-09-23T22:02:57.226Z",
+        "updated_at": "2023-09-23T22:41:33.153Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trade_history": [
+      {
+        "id": "0de8ea02-7aca-4cde-8079-144d70e39023",
+        "created_at": "2023-09-23T14:14:56.343Z",
+        "updated_at": "2023-09-23T05:09:33.880Z"
+      },
+      {
+        "id": "9898844c-bf96-412a-80a1-5e977fcef8c0",
+        "created_at": "2023-09-23T03:21:56.983Z",
+        "updated_at": "2023-09-23T23:06:49.356Z"
+      },
+      {
+        "id": "32342d4c-100c-452d-ad23-222115bb2814",
+        "created_at": "2023-09-23T03:03:26.476Z",
+        "updated_at": "2023-09-23T06:22:45.477Z"
+      },
+      {
+        "id": "0787fb07-84cb-4e57-8334-fa599173ab86",
+        "created_at": "2023-09-23T01:05:07.406Z",
+        "updated_at": "2023-09-23T15:15:23.820Z"
+      },
+      {
+        "id": "25477cdf-e27b-47be-9b65-88f0594855fe",
+        "created_at": "2023-09-23T10:38:44.941Z",
+        "updated_at": "2023-09-23T13:55:15.574Z"
+      }
+    ],
+    "security_settings": [
+      {
+        "id": "76df0ff3-8d79-4796-b8a1-868441fdc3c9",
+        "created_at": "2023-09-23T21:18:49.452Z",
+        "updated_at": "2023-09-23T17:56:05.682Z"
+      },
+      {
+        "id": "ad52a824-1b5b-46d3-bc25-2626d255f738",
+        "created_at": "2023-09-23T01:14:20.771Z",
+        "updated_at": "2023-09-23T20:30:47.897Z"
+      },
+      {
+        "id": "0785d63e-a345-4304-8c4a-22b8bd3476a6",
+        "created_at": "2023-09-23T19:16:22.397Z",
+        "updated_at": "2023-09-23T04:53:16.098Z"
+      },
+      {
+        "id": "1f10bb8f-b2ef-4397-993a-ec66515ea349",
+        "created_at": "2023-09-23T11:15:52.190Z",
+        "updated_at": "2023-09-23T14:43:33.683Z"
+      },
+      {
+        "id": "e857fc80-5af6-433b-8c9a-1d719843e571",
+        "created_at": "2023-09-23T13:45:12.423Z",
+        "updated_at": "2023-09-23T15:30:41.000Z"
+      }
+    ],
+    "market_trends": [
+      {
+        "id": "5ce183cc-29f9-4849-a987-3ac00a8f8638",
+        "created_at": "2023-09-23T15:53:33.871Z",
+        "updated_at": "2023-09-23T06:30:38.078Z"
+      },
+      {
+        "id": "6f61b3fe-5f5e-4130-a9ec-313fa196ffad",
+        "created_at": "2023-09-23T11:57:11.161Z",
+        "updated_at": "2023-09-23T21:41:25.875Z"
+      },
+      {
+        "id": "22eec304-0787-4e6b-9e9f-bcd0c8860538",
+        "created_at": "2023-09-23T18:17:42.502Z",
+        "updated_at": "2023-09-23T07:10:07.693Z"
+      },
+      {
+        "id": "6600962e-f680-4294-a9e7-581bd63ab255",
+        "created_at": "2023-09-23T02:56:37.304Z",
+        "updated_at": "2023-09-23T17:28:08.745Z"
+      },
+      {
+        "id": "4daa21af-79ec-4749-a82f-75d563dfef6b",
+        "created_at": "2023-09-23T18:37:36.321Z",
+        "updated_at": "2023-09-23T06:07:18.887Z"
+      }
+    ],
+    "transaction": [
+      {
+        "id": "0e0e0409-4462-4ba1-b508-bce085ed845c",
+        "amount": 98365,
+        "transaction_type": "Buy",
+        "transaction_date": "2023-09-23T15:01:15.198Z",
+        "status": "Pending",
+        "created_at": "2023-09-23T10:30:50.956Z",
+        "updated_at": "2023-09-23T00:23:55.259Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7b5971e3-3466-4f9e-a91f-582076b382df",
+        "amount": 82296,
+        "transaction_type": "Sell",
+        "transaction_date": "2023-09-23T14:25:08.677Z",
+        "status": "Completed",
+        "created_at": "2023-09-23T18:47:21.005Z",
+        "updated_at": "2023-09-23T21:36:07.834Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "04b52192-d00a-4435-93dc-8f07954230bc",
+        "amount": 2303,
+        "transaction_type": "Deposit",
+        "transaction_date": "2023-09-23T04:55:20.041Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-23T16:33:06.905Z",
+        "updated_at": "2023-09-23T20:03:16.611Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d211d5dd-9e6e-48ba-9805-b1a8c306b64a",
+        "amount": 58911,
+        "transaction_type": "Withdraw",
+        "transaction_date": "2023-09-23T16:33:38.504Z",
+        "status": "Failed",
+        "created_at": "2023-09-23T13:31:15.096Z",
+        "updated_at": "2023-09-23T22:06:58.614Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "19aefaa3-cda9-4a31-b6da-143a843a4249",
+        "amount": 69402,
+        "transaction_type": "Transfer",
+        "transaction_date": "2023-09-23T13:41:58.004Z",
+        "status": "Processing",
+        "created_at": "2023-09-23T12:49:16.786Z",
+        "updated_at": "2023-09-23T05:30:45.431Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "currency": [
+      {
+        "id": "b126b538-a3f1-4489-bcda-516080de59a5",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "created_at": "2023-09-23T15:03:39.305Z",
+        "updated_at": "2023-09-23T18:07:28.293Z"
+      },
+      {
+        "id": "734bc695-c6fd-4382-b9d5-a2f272b9a0cd",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "created_at": "2023-09-23T06:56:28.022Z",
+        "updated_at": "2023-09-23T05:55:47.155Z"
+      },
+      {
+        "id": "e2d047c2-25dd-4c26-bc95-b2a67e38f1a7",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "created_at": "2023-09-23T22:23:06.137Z",
+        "updated_at": "2023-09-23T15:05:55.530Z"
+      },
+      {
+        "id": "efac01de-93a6-40c2-8083-b34c01f6b401",
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "created_at": "2023-09-23T00:39:13.023Z",
+        "updated_at": "2023-09-23T15:35:53.519Z"
+      },
+      {
+        "id": "3f2ad2be-c175-40e0-85a9-f09ab9941554",
+        "name": "Stellar",
+        "symbol": "XLM",
+        "created_at": "2023-09-23T09:38:44.355Z",
+        "updated_at": "2023-09-23T07:11:59.998Z"
+      }
+    ],
+    "market": [
+      {
+        "id": "f60364c8-c272-4c37-81f4-c3727b2d5b70",
+        "name": "Cryptocurrency Market",
+        "created_at": "2023-09-23T04:46:50.877Z",
+        "updated_at": "2023-09-23T23:44:39.862Z",
+        "currency_id": "efac01de-93a6-40c2-8083-b34c01f6b401",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "7ee6f9bd-2c45-4f8f-9be6-76c3996dc578",
+        "name": "Stock Market",
+        "created_at": "2023-09-23T04:36:45.214Z",
+        "updated_at": "2023-09-23T14:16:50.034Z",
+        "currency_id": "734bc695-c6fd-4382-b9d5-a2f272b9a0cd",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "5e28134f-e03d-4b9a-914e-44f9c4d6f518",
+        "name": "Forex Market",
+        "created_at": "2023-09-23T23:30:10.895Z",
+        "updated_at": "2023-09-23T04:49:01.506Z",
+        "currency_id": "3f2ad2be-c175-40e0-85a9-f09ab9941554",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "12fdb37e-f567-46b0-a8ac-bb92c9d61b96",
+        "name": "Commodity Market",
+        "created_at": "2023-09-23T13:05:22.945Z",
+        "updated_at": "2023-09-23T13:31:46.622Z",
+        "currency_id": "efac01de-93a6-40c2-8083-b34c01f6b401",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "cc1e77e1-19b4-454c-9618-6cd12f4229da",
+        "name": "Derivatives Market",
+        "created_at": "2023-09-23T19:16:29.984Z",
+        "updated_at": "2023-09-23T21:47:38.773Z",
+        "currency_id": "3f2ad2be-c175-40e0-85a9-f09ab9941554",
+        "exchange_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f16b8aa8-d885-4dbd-878f-ce1a923eb546",
+        "email": "Dandre_Bode@roq.tech",
+        "firstName": "Evelyn",
+        "lastName": "Gleichner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/860.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "69ac8b2a-e7a3-4996-ae75-40c88ec74b92",
+        "email": "Eudora33@roq.tech",
+        "firstName": "Jaron",
+        "lastName": "Price",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1745553",
+        "tenantId": null
+      },
+      {
+        "reference": "d60e0929-933c-4007-a830-d556a5b5140f",
+        "email": "Bryce_Romaguera11@roq.tech",
+        "firstName": "Lucinda",
+        "lastName": "Waters",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1199.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "15cecbd1-c064-4407-affc-e30172efa672",
+        "email": "Hermina.Medhurst50@roq.tech",
+        "firstName": "Maudie",
+        "lastName": "Haley",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36655893",
+        "tenantId": null
+      },
+      {
+        "reference": "21bdd977-8550-4dec-a1ee-d96363074b17",
+        "email": "Juston_Erdman93@roq.tech",
+        "firstName": "Aliya",
+        "lastName": "Kuhlman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64331937",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "wallet_transactions": [
+      {
+        "id": "681454bd-03d2-4283-8060-38cdcde2ec37",
+        "created_at": "2023-09-23T20:17:07.234Z",
+        "updated_at": "2023-09-23T07:40:45.754Z"
+      },
+      {
+        "id": "7c731911-1bf9-4cf9-b8bb-a5f3347658a1",
+        "created_at": "2023-09-23T19:20:11.045Z",
+        "updated_at": "2023-09-23T23:24:51.410Z"
+      },
+      {
+        "id": "64dcc5eb-cf8c-48db-bcae-68206be5dd9d",
+        "created_at": "2023-09-23T06:25:50.905Z",
+        "updated_at": "2023-09-23T18:38:32.384Z"
+      },
+      {
+        "id": "8436dfd8-775e-4fd4-acb1-77cade1f0a62",
+        "created_at": "2023-09-23T11:47:44.164Z",
+        "updated_at": "2023-09-23T22:57:23.322Z"
+      },
+      {
+        "id": "8c070bc2-a084-445f-b91b-64f317a1fed1",
+        "created_at": "2023-09-23T04:13:56.220Z",
+        "updated_at": "2023-09-23T03:20:59.478Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "d5de51cd-cd2e-483f-b087-0f2bc1adb803",
+        "created_at": "2023-09-23T08:50:43.533Z",
+        "updated_at": "2023-09-23T01:56:07.585Z"
+      },
+      {
+        "id": "c7dcbb9b-e415-4a24-92aa-1396b680ba4f",
+        "created_at": "2023-09-23T06:15:06.100Z",
+        "updated_at": "2023-09-23T13:22:09.237Z"
+      },
+      {
+        "id": "c565774b-2250-42d3-9d45-39509082eff5",
+        "created_at": "2023-09-23T20:33:51.563Z",
+        "updated_at": "2023-09-23T12:02:54.156Z"
+      },
+      {
+        "id": "ee5e24dd-474e-4491-b2c7-22884ca356b6",
+        "created_at": "2023-09-23T07:01:33.499Z",
+        "updated_at": "2023-09-23T21:36:43.213Z"
+      },
+      {
+        "id": "b4462023-845d-4b68-9687-a4932cd33182",
+        "created_at": "2023-09-23T08:04:11.234Z",
+        "updated_at": "2023-09-23T23:15:05.467Z"
+      }
+    ],
+    "wallet": [
+      {
+        "id": "a4532012-9b70-4a10-bef6-6be7adc91300",
+        "balance": 35510,
+        "created_at": "2023-09-23T19:54:20.995Z",
+        "updated_at": "2023-09-23T22:09:39.196Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "664120b7-a09e-4825-a254-945fa83437fe",
+        "balance": 37451,
+        "created_at": "2023-09-23T07:05:25.269Z",
+        "updated_at": "2023-09-23T12:05:53.677Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "396ce8b8-93b5-4e7a-b798-cf975e2ca48b",
+        "balance": 16900,
+        "created_at": "2023-09-23T18:04:09.751Z",
+        "updated_at": "2023-09-23T08:05:07.493Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6aee3392-5ce2-4ac5-bb15-2ef4b1a833f4",
+        "balance": 57037,
+        "created_at": "2023-09-23T13:17:59.504Z",
+        "updated_at": "2023-09-23T08:08:57.781Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "01af1417-fe96-43d6-a2fd-4a4613c78dd6",
+        "balance": 25865,
+        "created_at": "2023-09-23T07:09:46.242Z",
+        "updated_at": "2023-09-23T14:04:18.904Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trade_history": [
+      {
+        "id": "aba31e8d-9880-480a-b165-e523bace2e1d",
+        "created_at": "2023-09-23T23:31:08.081Z",
+        "updated_at": "2023-09-23T18:20:46.980Z"
+      },
+      {
+        "id": "fa740583-4d39-4677-b272-ca953792a8c4",
+        "created_at": "2023-09-23T14:22:02.766Z",
+        "updated_at": "2023-09-23T04:00:07.921Z"
+      },
+      {
+        "id": "d8f870ed-5bf8-45d6-badb-f702535b938d",
+        "created_at": "2023-09-23T01:37:39.956Z",
+        "updated_at": "2023-09-23T21:17:34.484Z"
+      },
+      {
+        "id": "119ccee3-349a-4a9a-a1a9-948eed531a75",
+        "created_at": "2023-09-23T10:13:04.957Z",
+        "updated_at": "2023-09-23T08:01:59.847Z"
+      },
+      {
+        "id": "6deee7c3-7e8b-407e-85bd-8cea4ac0b803",
+        "created_at": "2023-09-23T04:30:59.658Z",
+        "updated_at": "2023-09-23T07:43:43.329Z"
+      }
+    ],
+    "security_settings": [
+      {
+        "id": "0332253a-9f98-425f-811c-35ad20c23b13",
+        "created_at": "2023-09-23T15:49:03.066Z",
+        "updated_at": "2023-09-23T05:31:06.667Z"
+      },
+      {
+        "id": "3a7bf7ce-078a-48d1-9a78-ab5b0ce321af",
+        "created_at": "2023-09-23T12:44:21.960Z",
+        "updated_at": "2023-09-23T02:05:02.570Z"
+      },
+      {
+        "id": "c4f6872e-eb3d-435d-a746-2baf944ecfbe",
+        "created_at": "2023-09-23T10:35:44.683Z",
+        "updated_at": "2023-09-23T20:27:34.475Z"
+      },
+      {
+        "id": "33d844cb-f527-4ea1-b5f6-db9cae68ca60",
+        "created_at": "2023-09-23T02:11:02.443Z",
+        "updated_at": "2023-09-23T09:06:36.859Z"
+      },
+      {
+        "id": "d342f941-4f5b-4fb7-a521-fe4435ad9aca",
+        "created_at": "2023-09-23T05:51:04.084Z",
+        "updated_at": "2023-09-23T12:24:01.061Z"
+      }
+    ],
+    "market_trends": [
+      {
+        "id": "36371485-70af-4d7a-8314-980edaf856e2",
+        "created_at": "2023-09-23T06:47:22.812Z",
+        "updated_at": "2023-09-23T15:35:04.854Z"
+      },
+      {
+        "id": "91bcae26-b847-4de7-8787-60f6473ac204",
+        "created_at": "2023-09-23T16:54:43.927Z",
+        "updated_at": "2023-09-23T02:45:42.797Z"
+      },
+      {
+        "id": "3a083c96-1cdb-42d6-be74-b7dad9e85d34",
+        "created_at": "2023-09-23T20:21:32.805Z",
+        "updated_at": "2023-09-23T03:24:19.314Z"
+      },
+      {
+        "id": "cc910d74-f6ff-40ea-a84d-fdfaf8a0ce70",
+        "created_at": "2023-09-23T21:54:54.832Z",
+        "updated_at": "2023-09-23T17:00:35.647Z"
+      },
+      {
+        "id": "753e32ba-160e-47f6-8534-bc0f5eefc043",
+        "created_at": "2023-09-23T08:18:16.253Z",
+        "updated_at": "2023-09-23T10:23:42.399Z"
+      }
+    ],
+    "transaction": [
+      {
+        "id": "d6885076-9d5e-4cc0-ac5d-ecdd88455faf",
+        "amount": 17786,
+        "transaction_type": "Buy",
+        "transaction_date": "2023-09-23T07:37:39.097Z",
+        "status": "Pending",
+        "created_at": "2023-09-23T07:47:50.623Z",
+        "updated_at": "2023-09-23T10:53:47.370Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8472a35a-2492-4ed9-91ad-6391c7aa779b",
+        "amount": 49771,
+        "transaction_type": "Sell",
+        "transaction_date": "2023-09-23T14:11:05.714Z",
+        "status": "Completed",
+        "created_at": "2023-09-23T07:27:57.796Z",
+        "updated_at": "2023-09-23T04:50:09.045Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e56699c2-d19e-497f-8983-b04fac79ec0a",
+        "amount": 55164,
+        "transaction_type": "Deposit",
+        "transaction_date": "2023-09-23T16:14:46.295Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-23T07:40:06.673Z",
+        "updated_at": "2023-09-23T18:25:48.262Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "523cd806-789b-4218-8a2d-f29fd17a787c",
+        "amount": 66890,
+        "transaction_type": "Withdraw",
+        "transaction_date": "2023-09-23T21:34:51.234Z",
+        "status": "Failed",
+        "created_at": "2023-09-23T02:41:56.078Z",
+        "updated_at": "2023-09-23T17:58:59.283Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9f13e65c-a4bf-485d-b4d5-b53e0ab9a13a",
+        "amount": 91998,
+        "transaction_type": "Transfer",
+        "transaction_date": "2023-09-23T07:55:52.677Z",
+        "status": "Processing",
+        "created_at": "2023-09-23T06:03:34.938Z",
+        "updated_at": "2023-09-23T23:09:35.840Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "currency": [
+      {
+        "id": "68304ba9-ef84-49f3-a637-d4fd8368eb3d",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "created_at": "2023-09-23T14:34:35.718Z",
+        "updated_at": "2023-09-23T09:21:36.397Z"
+      },
+      {
+        "id": "af4c06b1-36bb-4000-8168-6ed0815803cc",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "created_at": "2023-09-23T21:49:22.523Z",
+        "updated_at": "2023-09-23T10:06:58.054Z"
+      },
+      {
+        "id": "41e8676c-5776-4fdc-beb4-ab98f943dcb9",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "created_at": "2023-09-23T18:23:37.414Z",
+        "updated_at": "2023-09-23T03:45:14.285Z"
+      },
+      {
+        "id": "c0a6a4aa-3fb9-47e5-a47e-92d4d10c9ac4",
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "created_at": "2023-09-23T10:46:47.816Z",
+        "updated_at": "2023-09-23T00:49:41.564Z"
+      },
+      {
+        "id": "12d06a37-9090-4d56-bc8f-967bfb7af640",
+        "name": "Stellar",
+        "symbol": "XLM",
+        "created_at": "2023-09-23T02:26:59.921Z",
+        "updated_at": "2023-09-23T09:27:59.963Z"
+      }
+    ],
+    "market": [
+      {
+        "id": "1b1ace75-7f8f-4ec8-aeb8-4b493d099489",
+        "name": "Digital Assets Market",
+        "created_at": "2023-09-23T01:42:56.789Z",
+        "updated_at": "2023-09-23T05:24:52.285Z",
+        "currency_id": "12d06a37-9090-4d56-bc8f-967bfb7af640",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "9e8dd513-cea0-499e-8957-1b235b846020",
+        "name": "Foreign Exchange Market",
+        "created_at": "2023-09-23T02:32:27.120Z",
+        "updated_at": "2023-09-23T18:18:35.852Z",
+        "currency_id": "12d06a37-9090-4d56-bc8f-967bfb7af640",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "534d31f3-49d3-4fb9-b4d9-f6d238081c1f",
+        "name": "Commodity Market",
+        "created_at": "2023-09-23T23:06:55.280Z",
+        "updated_at": "2023-09-23T05:26:05.741Z",
+        "currency_id": "41e8676c-5776-4fdc-beb4-ab98f943dcb9",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "3569856b-2579-4b13-8e15-a1ae8567f0e3",
+        "name": "Derivatives Market",
+        "created_at": "2023-09-23T00:20:41.417Z",
+        "updated_at": "2023-09-23T11:56:52.172Z",
+        "currency_id": "68304ba9-ef84-49f3-a637-d4fd8368eb3d",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "25923549-1cff-43bb-a7d7-79db9b5e89a1",
+        "name": "Stock Market",
+        "created_at": "2023-09-23T17:02:53.575Z",
+        "updated_at": "2023-09-23T22:56:13.370Z",
+        "currency_id": "41e8676c-5776-4fdc-beb4-ab98f943dcb9",
+        "exchange_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "aa268f13-97c9-4165-9ca7-a8acdeb2fadd",
+        "email": "Paige28@roq.tech",
+        "firstName": "Issac",
+        "lastName": "Barrows",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40071585",
+        "tenantId": null
+      },
+      {
+        "reference": "00b89988-252d-4bf9-a0f5-580e1ae4f6bf",
+        "email": "Kyra59@roq.tech",
+        "firstName": "Katlyn",
+        "lastName": "Koepp",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64037912",
+        "tenantId": null
+      },
+      {
+        "reference": "b7a697d7-5851-43a8-8f99-bd29cecd8436",
+        "email": "Everette_Hamill@roq.tech",
+        "firstName": "Geovanny",
+        "lastName": "Skiles",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71248440",
+        "tenantId": null
+      },
+      {
+        "reference": "aabd1c50-fa4a-4d9d-aeb7-2ebda5e9e239",
+        "email": "Clementina_Block50@roq.tech",
+        "firstName": "Oswaldo",
+        "lastName": "Jacobi",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62026213",
+        "tenantId": null
+      },
+      {
+        "reference": "096bda17-433e-4570-8e60-b10ad683c561",
+        "email": "Abraham2@roq.tech",
+        "firstName": "Elenor",
+        "lastName": "O'Hara",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/620.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "wallet_transactions": [
+      {
+        "id": "ed98de66-2322-4c67-b3a1-832f9c40b6e3",
+        "created_at": "2023-09-23T07:59:45.961Z",
+        "updated_at": "2023-09-23T07:22:08.026Z"
+      },
+      {
+        "id": "c1b199e6-9a11-48f2-938e-6742ae783f67",
+        "created_at": "2023-09-23T01:49:22.395Z",
+        "updated_at": "2023-09-23T08:17:20.705Z"
+      },
+      {
+        "id": "d295cc98-536c-4e1d-867f-6aabccaaddd8",
+        "created_at": "2023-09-23T07:20:01.713Z",
+        "updated_at": "2023-09-23T07:25:51.141Z"
+      },
+      {
+        "id": "f1c4f732-bb47-4d60-a161-f67ad9a31dca",
+        "created_at": "2023-09-23T05:34:05.199Z",
+        "updated_at": "2023-09-23T22:34:14.688Z"
+      },
+      {
+        "id": "8c351c50-e301-4465-9029-cc2fb13adc46",
+        "created_at": "2023-09-23T16:24:11.990Z",
+        "updated_at": "2023-09-23T11:07:55.634Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "896c4781-c02b-41e7-9138-9b18a658309b",
+        "created_at": "2023-09-23T17:04:12.204Z",
+        "updated_at": "2023-09-23T21:45:50.573Z"
+      },
+      {
+        "id": "780f6c04-e45a-4aa9-8547-b892bacfa5ba",
+        "created_at": "2023-09-23T01:33:13.739Z",
+        "updated_at": "2023-09-23T11:09:52.201Z"
+      },
+      {
+        "id": "4f956073-ddbe-45b4-a936-8a2ba53ed557",
+        "created_at": "2023-09-23T04:56:59.521Z",
+        "updated_at": "2023-09-23T17:57:31.393Z"
+      },
+      {
+        "id": "4e6663e2-4997-4087-88a3-6d29feb77abd",
+        "created_at": "2023-09-23T17:28:15.148Z",
+        "updated_at": "2023-09-23T18:50:42.114Z"
+      },
+      {
+        "id": "655ad379-f361-470b-8cf3-2a68c6ab5b9b",
+        "created_at": "2023-09-23T10:14:03.362Z",
+        "updated_at": "2023-09-23T21:52:04.709Z"
+      }
+    ],
+    "wallet": [
+      {
+        "id": "cfd45dd1-a066-4b8d-9192-9f505bb8cd66",
+        "balance": 75743,
+        "created_at": "2023-09-23T18:40:58.933Z",
+        "updated_at": "2023-09-23T11:59:37.009Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6a80f145-60da-4091-8ce3-bc872e92a4e0",
+        "balance": 6608,
+        "created_at": "2023-09-23T16:46:55.978Z",
+        "updated_at": "2023-09-23T22:00:32.537Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d5159f6a-75f6-4edf-9432-f74f2d4e72d1",
+        "balance": 11130,
+        "created_at": "2023-09-23T05:27:28.875Z",
+        "updated_at": "2023-09-23T20:44:46.016Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aa872f95-c9ba-4d57-a446-66226dbf3d5a",
+        "balance": 64848,
+        "created_at": "2023-09-23T08:31:58.336Z",
+        "updated_at": "2023-09-23T06:51:39.685Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6581447f-005b-4416-8ca5-040320035758",
+        "balance": 69635,
+        "created_at": "2023-09-23T16:19:00.707Z",
+        "updated_at": "2023-09-23T16:39:30.472Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trade_history": [
+      {
+        "id": "95033944-ee0e-4036-8bbd-797f3d19b572",
+        "created_at": "2023-09-23T16:11:29.891Z",
+        "updated_at": "2023-09-23T08:46:32.939Z"
+      },
+      {
+        "id": "4baf7e10-75c9-4af8-a3b7-09c7e5ec2fb6",
+        "created_at": "2023-09-23T03:56:30.938Z",
+        "updated_at": "2023-09-23T21:41:35.978Z"
+      },
+      {
+        "id": "46a83d47-893a-43a8-b225-6e0fb78b80ae",
+        "created_at": "2023-09-23T05:44:31.763Z",
+        "updated_at": "2023-09-23T10:46:28.384Z"
+      },
+      {
+        "id": "eb38c12c-ff20-4cf2-a990-b46817670b0c",
+        "created_at": "2023-09-23T10:31:57.904Z",
+        "updated_at": "2023-09-23T16:45:54.134Z"
+      },
+      {
+        "id": "2ea44ff5-6624-4cb0-b516-1fd3ddcd47c0",
+        "created_at": "2023-09-23T15:01:19.800Z",
+        "updated_at": "2023-09-23T08:02:11.416Z"
+      }
+    ],
+    "security_settings": [
+      {
+        "id": "f0716c6a-a042-45e8-9123-f8b4446360fd",
+        "created_at": "2023-09-23T11:50:45.105Z",
+        "updated_at": "2023-09-23T08:40:35.630Z"
+      },
+      {
+        "id": "15e22f1c-ffc8-4582-91f3-af1f7c9f66a3",
+        "created_at": "2023-09-23T21:19:24.479Z",
+        "updated_at": "2023-09-23T01:31:08.285Z"
+      },
+      {
+        "id": "f02f3e04-23c8-490d-b147-fb3fd3151672",
+        "created_at": "2023-09-23T23:32:38.964Z",
+        "updated_at": "2023-09-23T23:35:51.684Z"
+      },
+      {
+        "id": "41059e48-045d-4ede-83e5-7f4ee1cc9eca",
+        "created_at": "2023-09-23T03:01:49.860Z",
+        "updated_at": "2023-09-23T02:03:37.513Z"
+      },
+      {
+        "id": "79598b06-dfcb-4468-8179-165529867d8e",
+        "created_at": "2023-09-23T21:48:26.710Z",
+        "updated_at": "2023-09-23T00:33:08.059Z"
+      }
+    ],
+    "market_trends": [
+      {
+        "id": "c1783e91-2919-433c-b0a9-3cce8d57eb34",
+        "created_at": "2023-09-23T07:42:31.791Z",
+        "updated_at": "2023-09-23T15:05:50.979Z"
+      },
+      {
+        "id": "5986026e-52c9-4ba2-9c27-07f986ace183",
+        "created_at": "2023-09-23T19:22:29.473Z",
+        "updated_at": "2023-09-23T13:18:59.601Z"
+      },
+      {
+        "id": "c4fb816f-3714-409d-8916-4f3814e48692",
+        "created_at": "2023-09-23T21:43:25.664Z",
+        "updated_at": "2023-09-23T23:01:09.389Z"
+      },
+      {
+        "id": "c4eb7693-45ff-4a38-bf98-47a7b9a28516",
+        "created_at": "2023-09-23T09:57:17.994Z",
+        "updated_at": "2023-09-23T15:52:35.884Z"
+      },
+      {
+        "id": "84b9b935-9c74-4234-b220-77ec561bd422",
+        "created_at": "2023-09-23T05:11:10.158Z",
+        "updated_at": "2023-09-23T13:58:07.487Z"
+      }
+    ],
+    "transaction": [
+      {
+        "id": "b8c5ffe9-405f-43a4-86a4-3b5a68f3dbc3",
+        "amount": 68507,
+        "transaction_type": "Buy",
+        "transaction_date": "2023-09-23T23:21:51.567Z",
+        "status": "Pending",
+        "created_at": "2023-09-23T22:21:01.656Z",
+        "updated_at": "2023-09-23T04:27:19.320Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "435e60f7-efd5-454a-81dd-2d3814444659",
+        "amount": 43590,
+        "transaction_type": "Sell",
+        "transaction_date": "2023-09-23T20:19:19.235Z",
+        "status": "Completed",
+        "created_at": "2023-09-23T23:35:17.188Z",
+        "updated_at": "2023-09-23T09:37:20.443Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "64821df4-aea5-40f4-bdd4-8912333b8d05",
+        "amount": 4699,
+        "transaction_type": "Transfer",
+        "transaction_date": "2023-09-23T05:39:55.259Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-23T17:32:29.847Z",
+        "updated_at": "2023-09-23T08:10:00.159Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "24fed662-c00d-405f-88a4-bf7715849036",
+        "amount": 9632,
+        "transaction_type": "Deposit",
+        "transaction_date": "2023-09-23T23:59:19.525Z",
+        "status": "Failed",
+        "created_at": "2023-09-23T13:43:57.606Z",
+        "updated_at": "2023-09-23T06:00:46.267Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "817ad07c-3bd1-40b4-9a6a-947b8a78dc2f",
+        "amount": 28248,
+        "transaction_type": "Withdraw",
+        "transaction_date": "2023-09-23T02:00:42.363Z",
+        "status": "Processing",
+        "created_at": "2023-09-23T11:04:15.311Z",
+        "updated_at": "2023-09-23T05:50:10.077Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "currency": [
+      {
+        "id": "2d534ce2-722e-44a9-8c65-fe4083083429",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "created_at": "2023-09-23T00:32:06.076Z",
+        "updated_at": "2023-09-23T10:25:09.923Z"
+      },
+      {
+        "id": "3225cf40-efeb-4916-af99-589f524a087c",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "created_at": "2023-09-23T05:10:03.537Z",
+        "updated_at": "2023-09-23T22:32:20.900Z"
+      },
+      {
+        "id": "3538b0ca-6987-4673-895f-871c395d77ed",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "created_at": "2023-09-23T09:43:39.750Z",
+        "updated_at": "2023-09-23T00:36:37.331Z"
+      },
+      {
+        "id": "3bda8a17-b217-40da-99c8-b49a2e987506",
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "created_at": "2023-09-23T22:50:26.531Z",
+        "updated_at": "2023-09-23T14:32:14.468Z"
+      },
+      {
+        "id": "58734c06-cc88-4a22-9b94-d6b551393488",
+        "name": "Bitcoin Cash",
+        "symbol": "BCH",
+        "created_at": "2023-09-23T16:13:08.260Z",
+        "updated_at": "2023-09-23T14:14:09.657Z"
+      }
+    ],
+    "market": [
+      {
+        "id": "64cdd6b6-e24a-4a53-b11c-727c953f99db",
+        "name": "Cryptocurrency Market",
+        "created_at": "2023-09-23T10:07:31.791Z",
+        "updated_at": "2023-09-23T19:26:32.355Z",
+        "currency_id": "58734c06-cc88-4a22-9b94-d6b551393488",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "220c0524-051c-441d-aaf2-8b725c5245e0",
+        "name": "Stock Market",
+        "created_at": "2023-09-23T14:56:23.053Z",
+        "updated_at": "2023-09-23T04:28:39.987Z",
+        "currency_id": "3225cf40-efeb-4916-af99-589f524a087c",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "f8e204b5-a693-4e8c-9fb7-cde6b3722614",
+        "name": "Commodity Market",
+        "created_at": "2023-09-23T13:44:06.717Z",
+        "updated_at": "2023-09-23T21:08:04.984Z",
+        "currency_id": "2d534ce2-722e-44a9-8c65-fe4083083429",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "4713ef15-eb40-4c48-a503-997ccab5da44",
+        "name": "Forex Market",
+        "created_at": "2023-09-23T23:44:00.546Z",
+        "updated_at": "2023-09-23T03:20:19.790Z",
+        "currency_id": "3225cf40-efeb-4916-af99-589f524a087c",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "4d05b92a-d4d8-42d4-a4d8-66f1c2f97d6f",
+        "name": "Digital Asset Market",
+        "created_at": "2023-09-23T22:07:02.563Z",
+        "updated_at": "2023-09-23T22:58:55.023Z",
+        "currency_id": "2d534ce2-722e-44a9-8c65-fe4083083429",
+        "exchange_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e539f676-b61f-48f1-829f-219443ee0f06",
+        "email": "Elmore37@roq.tech",
+        "firstName": "Lauren",
+        "lastName": "Feest",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1106.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d758289b-3287-4520-b979-bfb58fed6494",
+        "email": "Thad.Ferry@roq.tech",
+        "firstName": "Esperanza",
+        "lastName": "Huels",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/492.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0466283b-2a35-4181-99d7-b7b3c3da7afb",
+        "email": "Waino.Beer41@roq.tech",
+        "firstName": "Akeem",
+        "lastName": "Yundt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8819523",
+        "tenantId": null
+      },
+      {
+        "reference": "705fe84f-fb98-46af-af1a-a4f2f6680cf8",
+        "email": "General.Ferry79@roq.tech",
+        "firstName": "Santos",
+        "lastName": "Veum",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79625564",
+        "tenantId": null
+      },
+      {
+        "reference": "c70426b9-7fd2-4ef9-9101-d079c08a08d9",
+        "email": "Dina49@roq.tech",
+        "firstName": "Laila",
+        "lastName": "Adams",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/100.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "wallet_transactions": [
+      {
+        "id": "e0942384-773a-4fe6-a567-d5286b08113d",
+        "created_at": "2023-09-23T17:10:23.164Z",
+        "updated_at": "2023-09-23T18:23:22.892Z"
+      },
+      {
+        "id": "ce0b646d-1d5f-4ea5-8d3e-197c25b5adde",
+        "created_at": "2023-09-23T14:12:07.758Z",
+        "updated_at": "2023-09-23T02:29:05.178Z"
+      },
+      {
+        "id": "3fdd985c-208a-490a-ab76-1c565bc0d6d5",
+        "created_at": "2023-09-23T00:18:50.290Z",
+        "updated_at": "2023-09-23T09:13:18.991Z"
+      },
+      {
+        "id": "b99d7cf3-ece8-4812-ba24-cb2ae886f48d",
+        "created_at": "2023-09-23T15:33:16.883Z",
+        "updated_at": "2023-09-23T10:53:19.743Z"
+      },
+      {
+        "id": "06cef151-abd8-4899-93ec-10af8f5e3c49",
+        "created_at": "2023-09-23T15:13:09.761Z",
+        "updated_at": "2023-09-23T08:15:25.972Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "84167a8b-4cb6-40b3-ac86-12edfbad8cff",
+        "created_at": "2023-09-23T21:58:23.649Z",
+        "updated_at": "2023-09-23T23:12:28.009Z"
+      },
+      {
+        "id": "caa76738-0e43-4508-8559-4104dcc07425",
+        "created_at": "2023-09-23T20:31:25.867Z",
+        "updated_at": "2023-09-23T03:32:18.025Z"
+      },
+      {
+        "id": "866e7445-991c-4531-86ae-3d77a4e7752c",
+        "created_at": "2023-09-23T04:58:47.055Z",
+        "updated_at": "2023-09-23T11:42:19.198Z"
+      },
+      {
+        "id": "5f3c1281-c7b4-492a-bf1b-f7579211ab1f",
+        "created_at": "2023-09-23T23:51:47.819Z",
+        "updated_at": "2023-09-23T11:03:54.492Z"
+      },
+      {
+        "id": "34407408-b962-418f-843d-dadc71b05617",
+        "created_at": "2023-09-23T07:03:24.436Z",
+        "updated_at": "2023-09-23T16:26:15.704Z"
+      }
+    ],
+    "wallet": [
+      {
+        "id": "c80f5152-6a6d-40cb-82b3-4033d2d51921",
+        "balance": 30282,
+        "created_at": "2023-09-23T23:50:07.432Z",
+        "updated_at": "2023-09-23T02:53:37.607Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "da60cff4-59f9-4660-9e4e-fe15dd7c7a13",
+        "balance": 77045,
+        "created_at": "2023-09-23T17:46:09.126Z",
+        "updated_at": "2023-09-23T02:11:10.783Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b80a17ea-ffc5-454a-a057-5fdcd55a4dae",
+        "balance": 95544,
+        "created_at": "2023-09-23T12:55:22.011Z",
+        "updated_at": "2023-09-23T07:06:59.924Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c009c455-5010-4b89-9d9f-63b3c44695db",
+        "balance": 96156,
+        "created_at": "2023-09-23T20:19:45.262Z",
+        "updated_at": "2023-09-23T11:52:45.138Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4ade8c23-7a18-4d69-8cf6-463df61a5dc9",
+        "balance": 93313,
+        "created_at": "2023-09-23T00:50:01.788Z",
+        "updated_at": "2023-09-23T14:29:44.205Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trade_history": [
+      {
+        "id": "4f11e022-d8a4-40d0-bff9-409e46024554",
+        "created_at": "2023-09-23T03:20:39.875Z",
+        "updated_at": "2023-09-23T06:27:40.167Z"
+      },
+      {
+        "id": "8c848f87-70de-4b39-9177-3bcf2b75a1e3",
+        "created_at": "2023-09-23T11:00:34.606Z",
+        "updated_at": "2023-09-23T00:27:28.826Z"
+      },
+      {
+        "id": "f7736dcd-9433-4503-a7c9-dbf89452bbf0",
+        "created_at": "2023-09-23T06:32:08.559Z",
+        "updated_at": "2023-09-23T17:45:17.537Z"
+      },
+      {
+        "id": "6e8ae9a2-8fa8-432c-be0d-488f43b02e73",
+        "created_at": "2023-09-23T01:33:27.638Z",
+        "updated_at": "2023-09-23T18:17:01.790Z"
+      },
+      {
+        "id": "1658ad44-0dea-4c06-8eeb-212d763302a5",
+        "created_at": "2023-09-23T23:33:11.517Z",
+        "updated_at": "2023-09-23T01:20:52.905Z"
+      }
+    ],
+    "security_settings": [
+      {
+        "id": "1eec4d69-29da-40b9-9b6c-f39b40267a95",
+        "created_at": "2023-09-23T22:03:37.747Z",
+        "updated_at": "2023-09-23T07:29:56.079Z"
+      },
+      {
+        "id": "35c88461-07db-4a8c-b58d-7dab30faaef4",
+        "created_at": "2023-09-23T23:54:56.666Z",
+        "updated_at": "2023-09-23T06:47:46.184Z"
+      },
+      {
+        "id": "649a1940-dac0-4d56-b9bb-d8568876329d",
+        "created_at": "2023-09-23T19:22:04.502Z",
+        "updated_at": "2023-09-23T02:44:21.503Z"
+      },
+      {
+        "id": "9247b7be-3947-4f76-a3f2-19905aa77dd8",
+        "created_at": "2023-09-23T23:46:01.269Z",
+        "updated_at": "2023-09-23T07:20:13.631Z"
+      },
+      {
+        "id": "51e243f6-96df-4f83-8a19-379c8d392389",
+        "created_at": "2023-09-23T23:45:48.693Z",
+        "updated_at": "2023-09-23T23:48:27.137Z"
+      }
+    ],
+    "market_trends": [
+      {
+        "id": "3b5fb3bc-9efd-49e9-9c34-b651bd9b10f7",
+        "created_at": "2023-09-23T23:50:27.585Z",
+        "updated_at": "2023-09-23T10:59:32.897Z"
+      },
+      {
+        "id": "ee02c8e7-4c62-44ed-a76d-a5574468cfa7",
+        "created_at": "2023-09-23T12:01:41.604Z",
+        "updated_at": "2023-09-23T19:03:12.137Z"
+      },
+      {
+        "id": "f013f275-e709-455f-82d2-8b4b01a03327",
+        "created_at": "2023-09-23T04:19:41.712Z",
+        "updated_at": "2023-09-23T01:22:31.067Z"
+      },
+      {
+        "id": "54c060bb-b739-49a7-86fb-37e3bfad82df",
+        "created_at": "2023-09-23T11:22:28.060Z",
+        "updated_at": "2023-09-23T10:44:30.974Z"
+      },
+      {
+        "id": "81eb8ae8-cc89-4616-b60b-da17643ce452",
+        "created_at": "2023-09-23T11:46:57.391Z",
+        "updated_at": "2023-09-23T01:33:42.427Z"
+      }
+    ],
+    "transaction": [
+      {
+        "id": "c251a6a8-cf17-4f26-b77a-29481a1a49bc",
+        "amount": 76080,
+        "transaction_type": "Buy",
+        "transaction_date": "2023-09-23T13:23:20.958Z",
+        "status": "Pending",
+        "created_at": "2023-09-23T13:48:18.984Z",
+        "updated_at": "2023-09-23T11:03:20.638Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b8739192-b748-4c16-82d8-8404725aedcf",
+        "amount": 51423,
+        "transaction_type": "Sell",
+        "transaction_date": "2023-09-23T08:47:02.063Z",
+        "status": "Completed",
+        "created_at": "2023-09-23T20:02:54.232Z",
+        "updated_at": "2023-09-23T20:32:21.024Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "64bcda0b-0b33-4789-80af-a56f2d0cb8b2",
+        "amount": 27840,
+        "transaction_type": "Deposit",
+        "transaction_date": "2023-09-23T22:49:52.857Z",
+        "status": "Failed",
+        "created_at": "2023-09-23T12:40:01.991Z",
+        "updated_at": "2023-09-23T13:53:59.404Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "190b1ce1-e300-4b36-b457-17708622f10b",
+        "amount": 52241,
+        "transaction_type": "Withdraw",
+        "transaction_date": "2023-09-23T22:35:03.777Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-23T20:10:08.932Z",
+        "updated_at": "2023-09-23T02:10:59.687Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "64e5bdf5-ccd2-4a3c-8e5e-2a97881c6723",
+        "amount": 57739,
+        "transaction_type": "Transfer",
+        "transaction_date": "2023-09-23T07:15:43.231Z",
+        "status": "In Progress",
+        "created_at": "2023-09-23T13:00:28.840Z",
+        "updated_at": "2023-09-23T10:29:14.960Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "currency": [
+      {
+        "id": "20a9bab0-74fe-4131-bedf-25fc55a648a4",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "created_at": "2023-09-23T17:35:20.012Z",
+        "updated_at": "2023-09-23T05:00:22.168Z"
+      },
+      {
+        "id": "809f7d08-a1b7-4efd-8c14-e49079d73894",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "created_at": "2023-09-23T04:16:28.395Z",
+        "updated_at": "2023-09-23T18:32:42.243Z"
+      },
+      {
+        "id": "c540934c-88e2-4d43-a0c6-dc2a4a2fa0ed",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "created_at": "2023-09-23T09:49:39.622Z",
+        "updated_at": "2023-09-23T14:10:09.714Z"
+      },
+      {
+        "id": "d479436b-d0ec-4bb7-b1a9-9d72fbfa1e0c",
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "created_at": "2023-09-23T11:54:35.047Z",
+        "updated_at": "2023-09-23T09:10:26.975Z"
+      },
+      {
+        "id": "55e9ace2-b106-4960-b320-02e9a0d6d478",
+        "name": "Stellar",
+        "symbol": "XLM",
+        "created_at": "2023-09-23T02:45:18.083Z",
+        "updated_at": "2023-09-23T12:43:38.026Z"
+      }
+    ],
+    "market": [
+      {
+        "id": "ccc63a5f-e34d-4514-8a4c-36a3b0234912",
+        "name": "Cryptocurrency Market",
+        "created_at": "2023-09-23T15:05:19.113Z",
+        "updated_at": "2023-09-23T17:54:59.815Z",
+        "currency_id": "55e9ace2-b106-4960-b320-02e9a0d6d478",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "3e576364-19a2-4bb4-a28e-a013e6909f90",
+        "name": "Stock Market",
+        "created_at": "2023-09-23T00:20:51.195Z",
+        "updated_at": "2023-09-23T02:05:52.461Z",
+        "currency_id": "55e9ace2-b106-4960-b320-02e9a0d6d478",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "11def4cb-205b-4f6c-81e5-5de4fbfb2a0d",
+        "name": "Forex Market",
+        "created_at": "2023-09-23T13:52:11.023Z",
+        "updated_at": "2023-09-23T12:22:55.236Z",
+        "currency_id": "55e9ace2-b106-4960-b320-02e9a0d6d478",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "7a934d53-3e49-4b35-826d-624a0281bc52",
+        "name": "Commodities Market",
+        "created_at": "2023-09-23T23:42:37.729Z",
+        "updated_at": "2023-09-23T18:34:10.079Z",
+        "currency_id": "809f7d08-a1b7-4efd-8c14-e49079d73894",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "6dc3633f-322b-4ba3-bdf4-6ec89b721335",
+        "name": "Options Market",
+        "created_at": "2023-09-23T09:29:53.835Z",
+        "updated_at": "2023-09-23T20:42:37.040Z",
+        "currency_id": "20a9bab0-74fe-4131-bedf-25fc55a648a4",
+        "exchange_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "23571843-a0e8-447d-a4de-1b1d82474eeb",
+        "email": "Polly_Kautzer@roq.tech",
+        "firstName": "Kenneth",
+        "lastName": "Waters",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/476.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "581dff79-eea0-44ed-8112-9b3c0fb2874d",
+        "email": "Kaelyn.Koepp@roq.tech",
+        "firstName": "Douglas",
+        "lastName": "Stoltenberg",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/721.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bad15c29-c55d-4f74-af5f-9f7ed71a8777",
+        "email": "Pamela_Carroll@roq.tech",
+        "firstName": "Katharina",
+        "lastName": "Lueilwitz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/948.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "eced4de0-2afa-41a6-9583-39f2efc8dbb4",
+        "email": "Giovanni.Fadel@roq.tech",
+        "firstName": "Richard",
+        "lastName": "Reichel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/53.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ade81b92-b679-48c7-9dc0-aa6357a5b13c",
+        "email": "Bruce31@roq.tech",
+        "firstName": "Craig",
+        "lastName": "Olson-Bechtelar",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1005.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "wallet_transactions": [
+      {
+        "id": "8faa526f-75e7-4f80-b84e-594817f9176c",
+        "created_at": "2023-09-23T18:06:10.388Z",
+        "updated_at": "2023-09-23T09:00:48.877Z"
+      },
+      {
+        "id": "9ba22018-44a4-4ba0-8f04-c95531354384",
+        "created_at": "2023-09-23T07:44:25.814Z",
+        "updated_at": "2023-09-23T02:03:04.318Z"
+      },
+      {
+        "id": "3c83a742-d6cf-45ce-9b5b-9d7d82348f45",
+        "created_at": "2023-09-23T12:59:18.982Z",
+        "updated_at": "2023-09-23T21:18:23.249Z"
+      },
+      {
+        "id": "92e3af26-8846-45cc-919e-eb7dc3a337e6",
+        "created_at": "2023-09-23T14:31:23.869Z",
+        "updated_at": "2023-09-23T12:21:41.843Z"
+      },
+      {
+        "id": "686dad06-e24e-43f9-b5ea-2c86cc159ff7",
+        "created_at": "2023-09-23T02:19:08.816Z",
+        "updated_at": "2023-09-23T21:23:56.202Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "6f78f83d-570b-4bd2-bb53-a060b370ae5e",
+        "created_at": "2023-09-23T17:50:54.996Z",
+        "updated_at": "2023-09-23T22:58:58.853Z"
+      },
+      {
+        "id": "23231e7c-934f-4f29-bb11-58d8e22a6243",
+        "created_at": "2023-09-23T13:42:20.472Z",
+        "updated_at": "2023-09-23T04:52:55.862Z"
+      },
+      {
+        "id": "405165bf-b44c-467e-9618-859657ae6500",
+        "created_at": "2023-09-23T06:35:48.456Z",
+        "updated_at": "2023-09-23T19:33:48.076Z"
+      },
+      {
+        "id": "35f4c6f8-cbd9-4229-b4ae-08f9dbf7bdc0",
+        "created_at": "2023-09-23T15:34:09.698Z",
+        "updated_at": "2023-09-23T15:03:50.650Z"
+      },
+      {
+        "id": "efbe4a87-71de-4733-9ab8-0cf884430cac",
+        "created_at": "2023-09-23T23:15:46.346Z",
+        "updated_at": "2023-09-23T19:06:00.033Z"
+      }
+    ],
+    "wallet": [
+      {
+        "id": "8ab238f0-b1fd-4978-8c1d-4b62da47e9ba",
+        "balance": 46424,
+        "created_at": "2023-09-23T19:12:18.954Z",
+        "updated_at": "2023-09-23T01:46:23.737Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e13b8c0e-9d87-4b00-abcc-ccca10c2969f",
+        "balance": 31792,
+        "created_at": "2023-09-23T09:33:21.385Z",
+        "updated_at": "2023-09-23T03:01:58.425Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8c82bb4e-4373-42b2-beeb-740f35a916aa",
+        "balance": 61758,
+        "created_at": "2023-09-23T22:17:37.227Z",
+        "updated_at": "2023-09-23T17:19:30.227Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a4141fad-e257-4862-a964-9accfb2c5da8",
+        "balance": 56819,
+        "created_at": "2023-09-23T01:25:36.736Z",
+        "updated_at": "2023-09-23T10:48:56.988Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d2e222f2-b846-47e1-8bc3-b915759bb604",
+        "balance": 43868,
+        "created_at": "2023-09-23T23:33:18.161Z",
+        "updated_at": "2023-09-23T23:56:43.006Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trade_history": [
+      {
+        "id": "5e8f1c02-4c48-4966-8ff4-2e9907738d6a",
+        "created_at": "2023-09-23T20:09:17.432Z",
+        "updated_at": "2023-09-23T10:46:58.777Z"
+      },
+      {
+        "id": "2bb714bd-040e-4029-95ff-6eeef8098959",
+        "created_at": "2023-09-23T03:33:48.065Z",
+        "updated_at": "2023-09-23T14:51:43.192Z"
+      },
+      {
+        "id": "96eb8e18-c29d-46a2-9568-e3429dd44977",
+        "created_at": "2023-09-23T18:45:47.580Z",
+        "updated_at": "2023-09-23T09:15:17.947Z"
+      },
+      {
+        "id": "9a1fd4b4-86a6-4e34-9fc8-40c4f8af282b",
+        "created_at": "2023-09-23T09:49:38.011Z",
+        "updated_at": "2023-09-23T01:02:37.666Z"
+      },
+      {
+        "id": "29c04a74-a042-46c9-a468-4f734a769cdb",
+        "created_at": "2023-09-23T17:39:04.782Z",
+        "updated_at": "2023-09-23T13:58:38.098Z"
+      }
+    ],
+    "security_settings": [
+      {
+        "id": "91651290-2f6f-4110-8506-ea1aaecae364",
+        "created_at": "2023-09-23T19:11:17.150Z",
+        "updated_at": "2023-09-23T17:15:20.764Z"
+      },
+      {
+        "id": "aa67cacc-69ea-4a2f-a567-c478bbab7e04",
+        "created_at": "2023-09-23T07:08:49.907Z",
+        "updated_at": "2023-09-23T15:53:09.974Z"
+      },
+      {
+        "id": "b64decf5-20e4-460c-8a43-557cd4ec12d7",
+        "created_at": "2023-09-23T11:34:34.478Z",
+        "updated_at": "2023-09-23T08:21:44.927Z"
+      },
+      {
+        "id": "9f52ad10-7abd-4306-aada-de4443ed7629",
+        "created_at": "2023-09-23T16:15:16.838Z",
+        "updated_at": "2023-09-23T09:23:02.245Z"
+      },
+      {
+        "id": "460c3d94-54bc-436b-90d4-8157c182e7f3",
+        "created_at": "2023-09-23T01:58:21.134Z",
+        "updated_at": "2023-09-23T05:59:23.173Z"
+      }
+    ],
+    "market_trends": [
+      {
+        "id": "b2775110-655e-4c3b-b429-fb4b9cce72ee",
+        "created_at": "2023-09-23T14:07:20.198Z",
+        "updated_at": "2023-09-23T04:22:38.074Z"
+      },
+      {
+        "id": "99a6ea86-a32a-4fcc-9cc3-e5dd92b08dd6",
+        "created_at": "2023-09-23T10:13:02.354Z",
+        "updated_at": "2023-09-23T11:05:07.159Z"
+      },
+      {
+        "id": "54503e3f-dfa7-4c5c-a07e-08cde8e57439",
+        "created_at": "2023-09-23T00:41:25.346Z",
+        "updated_at": "2023-09-23T09:03:32.125Z"
+      },
+      {
+        "id": "e8d55b3f-95c9-4bdb-84cc-4d32b50c7ac4",
+        "created_at": "2023-09-23T12:41:59.161Z",
+        "updated_at": "2023-09-23T17:47:52.235Z"
+      },
+      {
+        "id": "56984cf6-f1c4-47d2-9ae5-bb963af853e6",
+        "created_at": "2023-09-23T11:32:31.167Z",
+        "updated_at": "2023-09-23T08:11:38.914Z"
+      }
+    ],
+    "transaction": [
+      {
+        "id": "9ba2110a-4679-4de9-9872-38cc1aeaea34",
+        "amount": 57668,
+        "transaction_type": "Buy",
+        "transaction_date": "2023-09-23T06:06:45.018Z",
+        "status": "Pending",
+        "created_at": "2023-09-23T03:04:10.745Z",
+        "updated_at": "2023-09-23T18:11:20.755Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "890b9489-27ea-4f57-bae2-315101e90b48",
+        "amount": 14246,
+        "transaction_type": "Sell",
+        "transaction_date": "2023-09-23T23:07:34.416Z",
+        "status": "Completed",
+        "created_at": "2023-09-23T15:14:44.132Z",
+        "updated_at": "2023-09-23T21:29:45.836Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f39e98dc-d782-4186-b98b-49e3ac9a07b0",
+        "amount": 14726,
+        "transaction_type": "Deposit",
+        "transaction_date": "2023-09-23T07:00:52.667Z",
+        "status": "Failed",
+        "created_at": "2023-09-23T07:51:12.102Z",
+        "updated_at": "2023-09-23T10:59:31.015Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8ba8c86c-03a8-4e62-bdd1-63c2eff341ab",
+        "amount": 67938,
+        "transaction_type": "Withdraw",
+        "transaction_date": "2023-09-23T19:14:23.429Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-23T21:25:26.656Z",
+        "updated_at": "2023-09-23T12:31:44.380Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4441f34d-7968-44ed-90f9-8b042e5bf931",
+        "amount": 68061,
+        "transaction_type": "Transfer",
+        "transaction_date": "2023-09-23T01:57:39.077Z",
+        "status": "Processing",
+        "created_at": "2023-09-23T09:30:04.658Z",
+        "updated_at": "2023-09-23T23:34:20.856Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "currency": [
+      {
+        "id": "167d5c4f-6687-485c-814d-39113c45063f",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "created_at": "2023-09-23T07:04:25.979Z",
+        "updated_at": "2023-09-23T01:32:07.690Z"
+      },
+      {
+        "id": "971b41fd-8e29-4af3-a3e6-1d5c4b67b6f1",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "created_at": "2023-09-23T23:17:43.829Z",
+        "updated_at": "2023-09-23T10:29:44.893Z"
+      },
+      {
+        "id": "27bbbf12-2435-44a9-8569-f5a836d4fa9a",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "created_at": "2023-09-23T05:27:20.719Z",
+        "updated_at": "2023-09-23T02:41:08.446Z"
+      },
+      {
+        "id": "9b9f71e2-5c02-435c-877d-751a917502bf",
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "created_at": "2023-09-23T09:04:12.430Z",
+        "updated_at": "2023-09-23T19:11:24.444Z"
+      },
+      {
+        "id": "dca56df6-b32c-4212-be43-673be17449f8",
+        "name": "Bitcoin Cash",
+        "symbol": "BCH",
+        "created_at": "2023-09-23T20:57:37.653Z",
+        "updated_at": "2023-09-23T08:47:26.653Z"
+      }
+    ],
+    "market": [
+      {
+        "id": "ff93bd20-56f4-4480-a2f8-f2bd93a01210",
+        "name": "Cryptocurrency Market",
+        "created_at": "2023-09-23T07:47:53.015Z",
+        "updated_at": "2023-09-23T10:56:21.762Z",
+        "currency_id": "167d5c4f-6687-485c-814d-39113c45063f",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "287b95b0-ea66-4040-883d-3af5c08c11d7",
+        "name": "Stock Market",
+        "created_at": "2023-09-23T08:16:15.880Z",
+        "updated_at": "2023-09-23T20:10:57.940Z",
+        "currency_id": "27bbbf12-2435-44a9-8569-f5a836d4fa9a",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "05aa4e64-9540-429e-b0ee-496c9ec824fe",
+        "name": "Foreign Exchange Market",
+        "created_at": "2023-09-23T19:07:29.254Z",
+        "updated_at": "2023-09-23T00:40:23.794Z",
+        "currency_id": "9b9f71e2-5c02-435c-877d-751a917502bf",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "ffb5a296-0aa5-46f1-b4b1-d6284d462720",
+        "name": "Commodity Market",
+        "created_at": "2023-09-23T13:03:48.320Z",
+        "updated_at": "2023-09-23T07:02:27.456Z",
+        "currency_id": "27bbbf12-2435-44a9-8569-f5a836d4fa9a",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "9ed0680a-a30b-488e-a1a1-833597ee2a9d",
+        "name": "Derivatives Market",
+        "created_at": "2023-09-23T13:07:04.832Z",
+        "updated_at": "2023-09-23T17:32:23.947Z",
+        "currency_id": "dca56df6-b32c-4212-be43-673be17449f8",
+        "exchange_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "56400f0c-b922-47c8-9a74-ddd597acd34e",
+        "email": "Ayla_Hermann@roq.tech",
+        "firstName": "Bulah",
+        "lastName": "Harber",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/280.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e28a9d1d-d864-4da6-a00e-4988f8725e55",
+        "email": "Mollie_Schiller96@roq.tech",
+        "firstName": "Jeremy",
+        "lastName": "Konopelski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/413.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8e5574d0-3ce1-491f-afd4-8f5e7c330d9f",
+        "email": "Suzanne98@roq.tech",
+        "firstName": "Jaunita",
+        "lastName": "O'Conner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88318404",
+        "tenantId": null
+      },
+      {
+        "reference": "41bd3760-0fcb-4af5-b933-5b920c3af5d1",
+        "email": "Tiara_Flatley90@roq.tech",
+        "firstName": "Janick",
+        "lastName": "Pfeffer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/549.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0a1053fe-eb1e-4b05-99e4-c87690817077",
+        "email": "Bobbie.Marquardt10@roq.tech",
+        "firstName": "Rocky",
+        "lastName": "Breitenberg",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59463472",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "wallet_transactions": [
+      {
+        "id": "f8b77714-3b25-4d33-84c6-c35375889e0b",
+        "created_at": "2023-09-23T08:27:30.855Z",
+        "updated_at": "2023-09-23T08:26:31.021Z"
+      },
+      {
+        "id": "4f272bd9-8abe-4bdb-b74a-16d4ee031f75",
+        "created_at": "2023-09-23T19:32:18.195Z",
+        "updated_at": "2023-09-23T21:42:29.838Z"
+      },
+      {
+        "id": "b2aa0f3d-d823-475d-9b5a-ca4494ed6b8a",
+        "created_at": "2023-09-23T11:49:52.068Z",
+        "updated_at": "2023-09-23T17:05:22.540Z"
+      },
+      {
+        "id": "7f48c3d3-d642-413f-99cc-0c9ea942b4f2",
+        "created_at": "2023-09-23T17:15:02.368Z",
+        "updated_at": "2023-09-23T17:33:41.520Z"
+      },
+      {
+        "id": "8332b3ed-ba07-49b4-9dde-df8b4342ab7e",
+        "created_at": "2023-09-23T06:54:51.744Z",
+        "updated_at": "2023-09-23T08:06:52.971Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "54004771-4df7-4c5c-8aba-45d0925f6996",
+        "created_at": "2023-09-23T03:00:23.729Z",
+        "updated_at": "2023-09-23T11:43:29.287Z"
+      },
+      {
+        "id": "86e139d0-adbe-4636-a0f8-2311bdbda55a",
+        "created_at": "2023-09-23T04:37:08.370Z",
+        "updated_at": "2023-09-23T13:53:40.451Z"
+      },
+      {
+        "id": "9a34ada8-0d7f-492e-89c6-067ddd5faed5",
+        "created_at": "2023-09-23T18:36:19.451Z",
+        "updated_at": "2023-09-23T20:32:53.430Z"
+      },
+      {
+        "id": "7e19f483-ee0f-4835-915d-364157db9737",
+        "created_at": "2023-09-23T11:50:13.912Z",
+        "updated_at": "2023-09-23T18:28:17.443Z"
+      },
+      {
+        "id": "adda934a-ef45-4083-91d5-e2822d3dbfe3",
+        "created_at": "2023-09-23T13:35:13.215Z",
+        "updated_at": "2023-09-23T20:18:29.834Z"
+      }
+    ],
+    "wallet": [
+      {
+        "id": "a3af143a-d968-4cb3-afe7-c8afd4f6bb42",
+        "balance": 97647,
+        "created_at": "2023-09-23T17:37:59.844Z",
+        "updated_at": "2023-09-23T00:51:44.204Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f512de82-63f3-438a-bf58-430b976f3d56",
+        "balance": 28278,
+        "created_at": "2023-09-23T06:29:21.575Z",
+        "updated_at": "2023-09-23T14:12:48.381Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d7e060fb-ee16-4a5c-a1b6-e51d94e6d799",
+        "balance": 96746,
+        "created_at": "2023-09-23T17:57:23.629Z",
+        "updated_at": "2023-09-23T15:18:17.697Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "de51212a-ad83-410e-97c5-aa8a44fbfbca",
+        "balance": 80314,
+        "created_at": "2023-09-23T18:55:48.554Z",
+        "updated_at": "2023-09-23T15:35:14.316Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9495fab4-8381-4c4d-bc0b-a9e98cb70d8f",
+        "balance": 17003,
+        "created_at": "2023-09-23T15:33:31.660Z",
+        "updated_at": "2023-09-23T07:14:49.461Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trade_history": [
+      {
+        "id": "828a9037-9ed9-49cd-b8eb-ab78cf3666ab",
+        "created_at": "2023-09-23T03:47:10.074Z",
+        "updated_at": "2023-09-23T13:13:52.748Z"
+      },
+      {
+        "id": "67ae600e-ac22-4dcd-93a8-79f0d3becf82",
+        "created_at": "2023-09-23T03:06:08.061Z",
+        "updated_at": "2023-09-23T02:26:13.915Z"
+      },
+      {
+        "id": "9284571c-0d5d-4f27-bc11-19ac96a74355",
+        "created_at": "2023-09-23T18:32:21.457Z",
+        "updated_at": "2023-09-23T18:54:47.424Z"
+      },
+      {
+        "id": "a2c2f2e1-9e38-4cf9-8cb0-6691ffdd5df3",
+        "created_at": "2023-09-23T09:38:19.922Z",
+        "updated_at": "2023-09-23T15:20:20.040Z"
+      },
+      {
+        "id": "4ce7d08f-64a2-4419-a884-e5404262c1cf",
+        "created_at": "2023-09-23T20:17:36.261Z",
+        "updated_at": "2023-09-23T19:34:17.687Z"
+      }
+    ],
+    "security_settings": [
+      {
+        "id": "000f1d7e-5792-4b10-8a9d-164da34a04e6",
+        "created_at": "2023-09-23T02:43:22.445Z",
+        "updated_at": "2023-09-23T07:04:39.991Z"
+      },
+      {
+        "id": "8bc9a0d3-59b3-47ea-b269-625523954e30",
+        "created_at": "2023-09-23T17:19:52.872Z",
+        "updated_at": "2023-09-23T10:47:58.063Z"
+      },
+      {
+        "id": "3ecf85f8-64a1-4321-aa33-652e9132ca3b",
+        "created_at": "2023-09-23T07:25:25.350Z",
+        "updated_at": "2023-09-23T20:12:58.715Z"
+      },
+      {
+        "id": "0834beab-7a03-4708-bfcd-2c7125b630d3",
+        "created_at": "2023-09-23T09:39:39.931Z",
+        "updated_at": "2023-09-23T08:32:09.491Z"
+      },
+      {
+        "id": "88faf246-cd81-4c50-afef-90fdb65f1354",
+        "created_at": "2023-09-23T07:41:51.236Z",
+        "updated_at": "2023-09-23T13:01:43.487Z"
+      }
+    ],
+    "market_trends": [
+      {
+        "id": "f5178706-c482-463f-a22a-7831feb622dc",
+        "created_at": "2023-09-23T00:27:29.260Z",
+        "updated_at": "2023-09-23T13:15:44.072Z"
+      },
+      {
+        "id": "f75780f8-2012-4a3d-8a10-84202a82daa7",
+        "created_at": "2023-09-23T20:58:56.147Z",
+        "updated_at": "2023-09-23T07:29:39.401Z"
+      },
+      {
+        "id": "cd6015dd-dd11-4f78-bc50-a3ffd3dfce47",
+        "created_at": "2023-09-23T21:56:05.356Z",
+        "updated_at": "2023-09-23T07:54:14.981Z"
+      },
+      {
+        "id": "018abfc9-639e-432f-9a3b-09d780e9e155",
+        "created_at": "2023-09-23T17:00:27.237Z",
+        "updated_at": "2023-09-23T03:02:38.527Z"
+      },
+      {
+        "id": "03e927ba-aa4a-4c30-8bc4-403714e1fbbf",
+        "created_at": "2023-09-23T22:29:30.234Z",
+        "updated_at": "2023-09-23T08:21:04.014Z"
+      }
+    ],
+    "transaction": [
+      {
+        "id": "da22e50b-a06c-4e87-b497-09508d011caf",
+        "amount": 27056,
+        "transaction_type": "Buy",
+        "transaction_date": "2023-09-23T20:22:49.505Z",
+        "status": "Pending",
+        "created_at": "2023-09-23T05:34:29.351Z",
+        "updated_at": "2023-09-23T10:24:11.593Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0cd52d49-d54e-43fe-a891-c08347580d29",
+        "amount": 90580,
+        "transaction_type": "Sell",
+        "transaction_date": "2023-09-23T09:07:56.944Z",
+        "status": "Completed",
+        "created_at": "2023-09-23T10:35:35.813Z",
+        "updated_at": "2023-09-23T17:33:29.720Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "42e6b140-5565-4b9f-95f1-358893b8e014",
+        "amount": 41032,
+        "transaction_type": "Deposit",
+        "transaction_date": "2023-09-23T01:33:21.454Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-23T02:33:40.908Z",
+        "updated_at": "2023-09-23T20:09:47.166Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fc7c798a-5ce6-4085-9733-a063dc1836f1",
+        "amount": 29580,
+        "transaction_type": "Withdraw",
+        "transaction_date": "2023-09-23T15:07:24.199Z",
+        "status": "Failed",
+        "created_at": "2023-09-23T19:23:33.103Z",
+        "updated_at": "2023-09-23T06:07:26.795Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6d7c3612-2980-4c5c-aad8-6153609e641c",
+        "amount": 6773,
+        "transaction_type": "Transfer",
+        "transaction_date": "2023-09-23T16:41:25.838Z",
+        "status": "Processing",
+        "created_at": "2023-09-23T03:09:28.576Z",
+        "updated_at": "2023-09-23T03:10:19.558Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "currency": [
+      {
+        "id": "84fd4b97-ac99-423a-989c-9881bc974765",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "created_at": "2023-09-23T23:42:36.817Z",
+        "updated_at": "2023-09-23T12:18:39.089Z"
+      },
+      {
+        "id": "d78ae66b-fd90-45d0-8eb8-2db2dcc5d608",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "created_at": "2023-09-23T05:58:17.091Z",
+        "updated_at": "2023-09-23T15:27:44.431Z"
+      },
+      {
+        "id": "5a8e53d8-3480-4409-b841-805532dbba03",
+        "name": "USD",
+        "symbol": "USD",
+        "created_at": "2023-09-23T03:13:26.454Z",
+        "updated_at": "2023-09-23T06:37:48.982Z"
+      },
+      {
+        "id": "4821c83f-91ae-475b-aa9a-300e4299d2da",
+        "name": "Euro",
+        "symbol": "EUR",
+        "created_at": "2023-09-23T16:25:35.250Z",
+        "updated_at": "2023-09-23T18:48:13.217Z"
+      },
+      {
+        "id": "6f0d8fcb-c910-46c2-a8e7-b6b628b20181",
+        "name": "Japanese Yen",
+        "symbol": "JPY",
+        "created_at": "2023-09-23T16:09:34.872Z",
+        "updated_at": "2023-09-23T20:00:09.902Z"
+      }
+    ],
+    "market": [
+      {
+        "id": "43ce453b-5535-4fdf-a8d3-fb008e00abad",
+        "name": "Cryptocurrency Market",
+        "created_at": "2023-09-23T15:53:24.415Z",
+        "updated_at": "2023-09-23T09:28:14.431Z",
+        "currency_id": "84fd4b97-ac99-423a-989c-9881bc974765",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "7a5235d1-f0eb-454a-9ecb-8291ceb2d57f",
+        "name": "Stock Market",
+        "created_at": "2023-09-23T00:23:52.372Z",
+        "updated_at": "2023-09-23T11:20:26.482Z",
+        "currency_id": "6f0d8fcb-c910-46c2-a8e7-b6b628b20181",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "a1397fa5-d82a-4bd4-8b87-e1a7b8f92f44",
+        "name": "Forex Market",
+        "created_at": "2023-09-23T04:26:10.910Z",
+        "updated_at": "2023-09-23T07:17:15.103Z",
+        "currency_id": "5a8e53d8-3480-4409-b841-805532dbba03",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "55b3615e-c18e-48b7-9b55-88a9a545316c",
+        "name": "Commodities Market",
+        "created_at": "2023-09-23T13:45:35.520Z",
+        "updated_at": "2023-09-23T02:53:39.544Z",
+        "currency_id": "84fd4b97-ac99-423a-989c-9881bc974765",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "a5846f46-58cf-4df8-affd-bcc877f2c71f",
+        "name": "Derivatives Market",
+        "created_at": "2023-09-23T17:19:45.285Z",
+        "updated_at": "2023-09-23T09:00:21.884Z",
+        "currency_id": "6f0d8fcb-c910-46c2-a8e7-b6b628b20181",
+        "exchange_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9db47a47-36cd-42ba-a4d4-cb43ddaadea0",
+        "email": "Chloe44@roq.tech",
+        "firstName": "Madeline",
+        "lastName": "Sanford",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/317.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e9290e5e-9374-4eec-8d9d-13c3416ecd25",
+        "email": "Jeremy_Quitzon@roq.tech",
+        "firstName": "George",
+        "lastName": "Gleason",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81699443",
+        "tenantId": null
+      },
+      {
+        "reference": "68dfb91f-c739-4ccb-80e1-abcf9cea0a65",
+        "email": "Lewis_Weber-Gusikowski39@roq.tech",
+        "firstName": "Piper",
+        "lastName": "Raynor",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/68556133",
+        "tenantId": null
+      },
+      {
+        "reference": "5b08bbef-0821-4eef-af8f-eaf62b990afd",
+        "email": "Liana_Towne@roq.tech",
+        "firstName": "Bette",
+        "lastName": "Hagenes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/52.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "26932d27-5d81-4429-be56-15719498bc5e",
+        "email": "Madeline.Veum0@roq.tech",
+        "firstName": "Freddie",
+        "lastName": "Stokes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1238.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "wallet_transactions": [
+      {
+        "id": "47b18f1c-c9e4-485d-b5f7-9e607efeb7a1",
+        "created_at": "2023-09-23T22:16:16.599Z",
+        "updated_at": "2023-09-23T17:47:34.626Z"
+      },
+      {
+        "id": "cc40601a-d5d0-47eb-944d-a55fef2e369c",
+        "created_at": "2023-09-23T20:42:04.491Z",
+        "updated_at": "2023-09-23T13:41:24.649Z"
+      },
+      {
+        "id": "459b376a-6794-4232-aacc-f01fb97d3c22",
+        "created_at": "2023-09-23T10:22:02.939Z",
+        "updated_at": "2023-09-23T02:53:02.679Z"
+      },
+      {
+        "id": "847fef97-6e90-49eb-b199-a90b4dbfd9b3",
+        "created_at": "2023-09-23T23:48:16.705Z",
+        "updated_at": "2023-09-23T21:50:36.624Z"
+      },
+      {
+        "id": "51b4bcb7-b478-43ea-b083-50c87b46f2c0",
+        "created_at": "2023-09-23T13:15:45.415Z",
+        "updated_at": "2023-09-23T05:32:49.000Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "6d097d58-5713-4301-8ad2-b97bdeffed5b",
+        "created_at": "2023-09-23T02:53:26.010Z",
+        "updated_at": "2023-09-23T09:48:21.310Z"
+      },
+      {
+        "id": "e94af169-aada-42fa-8425-41b8dd4cb24d",
+        "created_at": "2023-09-23T14:52:59.304Z",
+        "updated_at": "2023-09-23T05:36:14.290Z"
+      },
+      {
+        "id": "5d0bb791-ac33-4d3a-927c-d9b7945a1e84",
+        "created_at": "2023-09-23T06:06:40.554Z",
+        "updated_at": "2023-09-23T03:33:11.065Z"
+      },
+      {
+        "id": "7536d203-3e39-478e-bf20-c62cfc3e5749",
+        "created_at": "2023-09-23T00:32:26.366Z",
+        "updated_at": "2023-09-23T06:57:52.849Z"
+      },
+      {
+        "id": "3f9feaf4-9f53-4632-b277-7b6ff09b36e5",
+        "created_at": "2023-09-23T02:16:23.811Z",
+        "updated_at": "2023-09-23T08:06:20.775Z"
+      }
+    ],
+    "wallet": [
+      {
+        "id": "8d0fa97c-819d-4f25-90a8-e50359eebb2a",
+        "balance": 39308,
+        "created_at": "2023-09-23T20:52:01.622Z",
+        "updated_at": "2023-09-23T06:00:50.166Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "044c0cc1-6fa5-4b78-983a-9f7477ae016f",
+        "balance": 63321,
+        "created_at": "2023-09-23T07:41:00.089Z",
+        "updated_at": "2023-09-23T17:29:48.815Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "33c83f79-81da-4215-88e2-db1773df8a4c",
+        "balance": 74168,
+        "created_at": "2023-09-23T08:49:54.389Z",
+        "updated_at": "2023-09-23T21:14:50.685Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dc8a5c54-2bc0-4f4e-99c9-46e6eafa1213",
+        "balance": 89507,
+        "created_at": "2023-09-23T01:41:52.922Z",
+        "updated_at": "2023-09-23T07:58:03.974Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3e8c4319-1b00-430d-bd47-016c6ad02656",
+        "balance": 33562,
+        "created_at": "2023-09-23T12:00:09.865Z",
+        "updated_at": "2023-09-23T09:25:55.087Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trade_history": [
+      {
+        "id": "29e247ef-73dd-4bdb-aa13-a9ffc69bbe3f",
+        "created_at": "2023-09-23T19:11:04.642Z",
+        "updated_at": "2023-09-23T12:31:32.570Z"
+      },
+      {
+        "id": "ac893094-d97a-4339-ae40-92ddafd687d7",
+        "created_at": "2023-09-23T19:06:22.445Z",
+        "updated_at": "2023-09-23T12:16:52.923Z"
+      },
+      {
+        "id": "f3ff0472-01d1-4f75-9530-8c439d5e97f0",
+        "created_at": "2023-09-23T20:09:56.884Z",
+        "updated_at": "2023-09-23T14:52:51.331Z"
+      },
+      {
+        "id": "e4757527-c384-4a3f-84b8-080d2733a26f",
+        "created_at": "2023-09-23T05:32:41.367Z",
+        "updated_at": "2023-09-23T02:02:25.179Z"
+      },
+      {
+        "id": "0682de03-da19-4b25-a9dd-1217f4e822ba",
+        "created_at": "2023-09-23T01:40:44.814Z",
+        "updated_at": "2023-09-23T03:48:29.585Z"
+      }
+    ],
+    "security_settings": [
+      {
+        "id": "a7ea407d-f161-468d-aa54-e697db087fa7",
+        "created_at": "2023-09-23T11:48:21.659Z",
+        "updated_at": "2023-09-23T14:31:35.910Z"
+      },
+      {
+        "id": "e80bb4b5-f300-4559-8d3a-297b82dbed20",
+        "created_at": "2023-09-23T14:52:18.847Z",
+        "updated_at": "2023-09-23T14:20:39.418Z"
+      },
+      {
+        "id": "97f97fae-d900-4a91-b3b9-b3f3535ca00f",
+        "created_at": "2023-09-23T14:09:47.527Z",
+        "updated_at": "2023-09-23T07:43:33.596Z"
+      },
+      {
+        "id": "6cb9a6f8-0c22-4ea5-a4b8-dffa9f3b0d08",
+        "created_at": "2023-09-23T02:27:28.817Z",
+        "updated_at": "2023-09-23T09:48:18.012Z"
+      },
+      {
+        "id": "b27d9df7-6e3e-4797-b2f7-0b2af1ed3322",
+        "created_at": "2023-09-23T05:19:03.888Z",
+        "updated_at": "2023-09-23T02:44:46.089Z"
+      }
+    ],
+    "market_trends": [
+      {
+        "id": "3aafc913-4ec9-4e00-9f70-077a3807e98e",
+        "created_at": "2023-09-23T18:32:31.163Z",
+        "updated_at": "2023-09-23T23:18:03.930Z"
+      },
+      {
+        "id": "e14d5728-9fd2-41ad-9f30-7ad8e8f4d3b9",
+        "created_at": "2023-09-23T23:33:53.098Z",
+        "updated_at": "2023-09-23T14:59:28.095Z"
+      },
+      {
+        "id": "46fb1f8c-4500-48b5-9f58-f47cab973c85",
+        "created_at": "2023-09-23T05:16:37.110Z",
+        "updated_at": "2023-09-23T23:28:37.070Z"
+      },
+      {
+        "id": "95bde3db-f933-4d2f-954d-803a7a784bf0",
+        "created_at": "2023-09-23T03:42:56.842Z",
+        "updated_at": "2023-09-23T13:45:33.715Z"
+      },
+      {
+        "id": "b8becc32-b45f-4adc-ad83-08e53cc7fea1",
+        "created_at": "2023-09-23T12:21:16.596Z",
+        "updated_at": "2023-09-23T14:24:58.049Z"
+      }
+    ],
+    "transaction": [
+      {
+        "id": "a1859d7e-8c6b-4d42-a64f-159f4120236b",
+        "amount": 14907,
+        "transaction_type": "Buy",
+        "transaction_date": "2023-09-23T08:17:34.730Z",
+        "status": "Pending",
+        "created_at": "2023-09-23T01:20:36.540Z",
+        "updated_at": "2023-09-23T14:27:03.186Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "25deabb6-f4c1-4494-a700-deab9ac5c2a1",
+        "amount": 23687,
+        "transaction_type": "Sell",
+        "transaction_date": "2023-09-23T14:22:08.886Z",
+        "status": "Completed",
+        "created_at": "2023-09-23T06:11:05.195Z",
+        "updated_at": "2023-09-23T22:56:41.489Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2e7897df-cebe-41fb-880c-7c3f3bf54ac3",
+        "amount": 25021,
+        "transaction_type": "Deposit",
+        "transaction_date": "2023-09-23T23:49:56.900Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-23T03:24:45.013Z",
+        "updated_at": "2023-09-23T08:40:52.596Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8c224bfa-1331-4915-bf07-dd8b9f8e8213",
+        "amount": 34610,
+        "transaction_type": "Withdraw",
+        "transaction_date": "2023-09-23T05:29:20.425Z",
+        "status": "Failed",
+        "created_at": "2023-09-23T13:17:32.441Z",
+        "updated_at": "2023-09-23T00:30:08.610Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4de81081-5ba5-490d-b2ea-b687c948e351",
+        "amount": 4939,
+        "transaction_type": "Transfer",
+        "transaction_date": "2023-09-23T12:59:26.431Z",
+        "status": "Processing",
+        "created_at": "2023-09-23T13:38:09.132Z",
+        "updated_at": "2023-09-23T00:17:02.978Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "currency": [
+      {
+        "id": "ed4cbd66-9569-4ecb-98c5-6e86a4ee6f12",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "created_at": "2023-09-23T04:46:25.910Z",
+        "updated_at": "2023-09-23T04:39:13.138Z"
+      },
+      {
+        "id": "3fac2ee2-1a24-40d4-ad1e-3f8a6f443468",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "created_at": "2023-09-23T12:35:53.330Z",
+        "updated_at": "2023-09-23T03:48:41.144Z"
+      },
+      {
+        "id": "dc826d45-6495-4241-88c4-3fbd1c801fc6",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "created_at": "2023-09-23T11:01:06.727Z",
+        "updated_at": "2023-09-23T21:09:13.462Z"
+      },
+      {
+        "id": "5fdbe29b-df7e-49a3-9373-f9e088c34b58",
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "created_at": "2023-09-23T13:03:29.181Z",
+        "updated_at": "2023-09-23T12:46:13.572Z"
+      },
+      {
+        "id": "cac6b671-31b5-4c0e-907b-7e65be9822e2",
+        "name": "Bitcoin Cash",
+        "symbol": "BCH",
+        "created_at": "2023-09-23T13:20:48.135Z",
+        "updated_at": "2023-09-23T03:52:28.197Z"
+      }
+    ],
+    "market": [
+      {
+        "id": "deff6f97-02c5-4cc5-ad8a-0af58387876a",
+        "name": "Cryptocurrency Market",
+        "created_at": "2023-09-23T08:17:05.918Z",
+        "updated_at": "2023-09-23T09:58:09.655Z",
+        "currency_id": "cac6b671-31b5-4c0e-907b-7e65be9822e2",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "fa0fe7c6-de4e-414f-86c4-9030f82ca926",
+        "name": "Stock Market",
+        "created_at": "2023-09-23T13:51:44.457Z",
+        "updated_at": "2023-09-23T12:42:10.684Z",
+        "currency_id": "dc826d45-6495-4241-88c4-3fbd1c801fc6",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "464fc88b-15f0-4bfc-a888-0c182c9037e9",
+        "name": "Forex Market",
+        "created_at": "2023-09-23T03:15:53.076Z",
+        "updated_at": "2023-09-23T00:23:51.197Z",
+        "currency_id": "dc826d45-6495-4241-88c4-3fbd1c801fc6",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "a9bc1603-73b2-4e95-a5d1-d3c94baffab6",
+        "name": "Commodity Market",
+        "created_at": "2023-09-23T22:35:21.362Z",
+        "updated_at": "2023-09-23T21:48:06.070Z",
+        "currency_id": "dc826d45-6495-4241-88c4-3fbd1c801fc6",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "47f30d80-9d6b-4b68-b901-517e16c83741",
+        "name": "Derivatives Market",
+        "created_at": "2023-09-23T19:02:41.192Z",
+        "updated_at": "2023-09-23T00:29:16.431Z",
+        "currency_id": "dc826d45-6495-4241-88c4-3fbd1c801fc6",
+        "exchange_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9f4e3291-c9df-4371-b3a2-eb30a4194b6f",
+        "email": "Dante.OKon7@roq.tech",
+        "firstName": "Jessica",
+        "lastName": "Wiegand",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/713.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "27b36879-bbfa-4907-b1ea-59da2ea2686f",
+        "email": "Federico_Jacobi@roq.tech",
+        "firstName": "Victor",
+        "lastName": "Johns",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1192.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "effa1ba3-4eff-42f1-8c3a-eaae617be844",
+        "email": "Eulalia_Robel-Fadel70@roq.tech",
+        "firstName": "Nova",
+        "lastName": "Osinski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/376.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "45cb2b6f-f420-472b-9723-f79e04611e40",
+        "email": "Pink_Bogisich-Macejkovic@roq.tech",
+        "firstName": "Rae",
+        "lastName": "Rutherford",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43553529",
+        "tenantId": null
+      },
+      {
+        "reference": "b3aee288-12f8-4917-a5a2-6715808a68a2",
+        "email": "Crawford47@roq.tech",
+        "firstName": "Joshua",
+        "lastName": "Hintz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50664584",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "wallet_transactions": [
+      {
+        "id": "e54d1526-9c3b-4ba2-a7a3-93634311783d",
+        "created_at": "2023-09-23T20:45:13.826Z",
+        "updated_at": "2023-09-23T03:04:35.777Z"
+      },
+      {
+        "id": "8ed42541-9211-45fa-8e94-ff15f55978e9",
+        "created_at": "2023-09-23T12:42:44.019Z",
+        "updated_at": "2023-09-23T23:56:06.677Z"
+      },
+      {
+        "id": "6dc8a0d7-4254-4f4a-80d1-196e69b3597d",
+        "created_at": "2023-09-23T23:38:56.566Z",
+        "updated_at": "2023-09-23T15:34:52.746Z"
+      },
+      {
+        "id": "57a6af86-50f5-4329-8ede-0482d7235842",
+        "created_at": "2023-09-23T03:36:33.408Z",
+        "updated_at": "2023-09-23T22:14:45.672Z"
+      },
+      {
+        "id": "6fe35492-af54-4bf7-a438-4356974f89fc",
+        "created_at": "2023-09-23T01:22:10.775Z",
+        "updated_at": "2023-09-23T00:39:50.131Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "675f4507-bcf5-40d9-af83-9894a573f1f3",
+        "created_at": "2023-09-23T04:13:55.785Z",
+        "updated_at": "2023-09-23T19:01:14.411Z"
+      },
+      {
+        "id": "7ec46b63-a224-48ad-8b12-707673c5ec71",
+        "created_at": "2023-09-23T16:14:36.611Z",
+        "updated_at": "2023-09-23T01:15:06.771Z"
+      },
+      {
+        "id": "0140c014-70a8-4e9c-86b0-a787687abd80",
+        "created_at": "2023-09-23T10:36:42.404Z",
+        "updated_at": "2023-09-23T13:54:54.003Z"
+      },
+      {
+        "id": "de78053e-a203-46ae-a0a8-514d3cbe87fa",
+        "created_at": "2023-09-23T14:21:42.736Z",
+        "updated_at": "2023-09-23T20:21:16.646Z"
+      },
+      {
+        "id": "fda22fe6-1b0d-4921-990a-0b044dabe9c8",
+        "created_at": "2023-09-23T07:53:18.411Z",
+        "updated_at": "2023-09-23T16:29:17.252Z"
+      }
+    ],
+    "wallet": [
+      {
+        "id": "4490656b-9bce-4669-857b-f747b432e262",
+        "balance": 65178,
+        "created_at": "2023-09-23T11:21:22.498Z",
+        "updated_at": "2023-09-23T05:14:51.422Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b61d532f-db1d-4920-ae38-71953e6a715b",
+        "balance": 63050,
+        "created_at": "2023-09-23T15:42:56.095Z",
+        "updated_at": "2023-09-23T18:12:48.365Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0cc1e40c-c6aa-439b-90b2-5fc222d2c275",
+        "balance": 90164,
+        "created_at": "2023-09-23T05:10:39.295Z",
+        "updated_at": "2023-09-23T01:45:20.472Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2c984752-2ac3-47f1-ae69-70e7477652bf",
+        "balance": 29853,
+        "created_at": "2023-09-23T10:36:57.537Z",
+        "updated_at": "2023-09-23T11:33:47.612Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4cacb6e7-ebbd-41ff-aed0-d74faff92995",
+        "balance": 10090,
+        "created_at": "2023-09-23T12:09:51.972Z",
+        "updated_at": "2023-09-23T13:49:25.773Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trade_history": [
+      {
+        "id": "ce92e9cc-5852-453c-955e-165ba8223e07",
+        "created_at": "2023-09-23T03:56:41.189Z",
+        "updated_at": "2023-09-23T05:44:59.744Z"
+      },
+      {
+        "id": "592cfe28-aaa2-4428-8634-3f1dbaaee667",
+        "created_at": "2023-09-23T11:37:25.787Z",
+        "updated_at": "2023-09-23T04:20:47.833Z"
+      },
+      {
+        "id": "b2262a9e-f8a4-4139-8d5b-7deb93329875",
+        "created_at": "2023-09-23T09:10:10.381Z",
+        "updated_at": "2023-09-23T15:36:52.009Z"
+      },
+      {
+        "id": "b9da30fd-1309-4d02-8741-2cf8146fc877",
+        "created_at": "2023-09-23T20:16:06.551Z",
+        "updated_at": "2023-09-23T07:51:46.878Z"
+      },
+      {
+        "id": "d725d962-e847-48b0-b0e5-aa72eac4071d",
+        "created_at": "2023-09-23T15:15:06.856Z",
+        "updated_at": "2023-09-23T17:14:42.801Z"
+      }
+    ],
+    "security_settings": [
+      {
+        "id": "2fff883e-c221-4168-8292-896038ab7158",
+        "created_at": "2023-09-23T16:06:55.960Z",
+        "updated_at": "2023-09-23T01:48:16.208Z"
+      },
+      {
+        "id": "5e548650-e450-47c7-9426-d58a159c5f15",
+        "created_at": "2023-09-23T05:50:22.768Z",
+        "updated_at": "2023-09-23T22:57:49.486Z"
+      },
+      {
+        "id": "fd3c0cee-4339-4d85-a391-7f6f6182bc9a",
+        "created_at": "2023-09-23T02:13:13.763Z",
+        "updated_at": "2023-09-23T09:39:56.178Z"
+      },
+      {
+        "id": "f701fbea-c7ca-4c9a-9eff-88ae858e1d59",
+        "created_at": "2023-09-23T03:11:48.301Z",
+        "updated_at": "2023-09-23T15:24:31.233Z"
+      },
+      {
+        "id": "0125e1e9-4f92-4ea2-bcda-7930693c9222",
+        "created_at": "2023-09-23T08:38:21.209Z",
+        "updated_at": "2023-09-23T05:42:34.570Z"
+      }
+    ],
+    "market_trends": [
+      {
+        "id": "b225b585-63d8-4d30-9008-833f2d6f9058",
+        "created_at": "2023-09-23T08:00:30.963Z",
+        "updated_at": "2023-09-23T23:20:17.296Z"
+      },
+      {
+        "id": "ab207296-d812-4a6a-8d5c-b19c6ad83197",
+        "created_at": "2023-09-23T19:59:49.361Z",
+        "updated_at": "2023-09-23T05:15:47.454Z"
+      },
+      {
+        "id": "e993b047-d1d0-4cde-9f20-2009b6424dd2",
+        "created_at": "2023-09-23T06:14:29.172Z",
+        "updated_at": "2023-09-23T11:53:45.014Z"
+      },
+      {
+        "id": "5e8632dc-bed6-4f53-b5e1-5b6eb39ecae2",
+        "created_at": "2023-09-23T23:04:22.429Z",
+        "updated_at": "2023-09-23T18:37:45.823Z"
+      },
+      {
+        "id": "bea87a52-d52e-4ab0-82d3-bdf02ab6d5da",
+        "created_at": "2023-09-23T11:03:31.538Z",
+        "updated_at": "2023-09-23T04:56:30.623Z"
+      }
+    ],
+    "transaction": [
+      {
+        "id": "21957388-e7ac-4ee0-bd0a-0240d10726be",
+        "amount": 85241,
+        "transaction_type": "Buy",
+        "transaction_date": "2023-09-23T09:26:36.673Z",
+        "status": "Pending",
+        "created_at": "2023-09-23T04:03:16.906Z",
+        "updated_at": "2023-09-23T09:20:17.766Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aa756998-b052-40a6-8191-5b75757fa34b",
+        "amount": 18673,
+        "transaction_type": "Sell",
+        "transaction_date": "2023-09-23T08:37:14.463Z",
+        "status": "Completed",
+        "created_at": "2023-09-23T03:32:39.490Z",
+        "updated_at": "2023-09-23T13:27:56.777Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "192f2863-38c6-4ecb-80cf-4c15f58dcdfb",
+        "amount": 84895,
+        "transaction_type": "Deposit",
+        "transaction_date": "2023-09-23T18:56:41.578Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-23T16:15:19.570Z",
+        "updated_at": "2023-09-23T21:44:24.833Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "51d948f0-6bdd-4c25-bbc1-5fd33cf597aa",
+        "amount": 1005,
+        "transaction_type": "Withdraw",
+        "transaction_date": "2023-09-23T00:59:00.741Z",
+        "status": "Failed",
+        "created_at": "2023-09-23T03:26:04.793Z",
+        "updated_at": "2023-09-23T05:56:02.714Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2be1107f-e184-4958-a4d6-78754345f6ca",
+        "amount": 8368,
+        "transaction_type": "Transfer",
+        "transaction_date": "2023-09-23T00:32:50.627Z",
+        "status": "Refunded",
+        "created_at": "2023-09-23T17:17:07.385Z",
+        "updated_at": "2023-09-23T20:54:13.123Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "currency": [
+      {
+        "id": "ca2f330b-a24e-4950-a5bb-d74c3bc6f44e",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "created_at": "2023-09-23T08:02:25.233Z",
+        "updated_at": "2023-09-23T12:59:16.124Z"
+      },
+      {
+        "id": "1ea07068-4bc1-4a45-8080-f9d0128794a0",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "created_at": "2023-09-23T19:23:05.727Z",
+        "updated_at": "2023-09-23T09:30:22.001Z"
+      },
+      {
+        "id": "9d646e49-3594-490a-8cd1-49c7eacec40d",
+        "name": "USD",
+        "symbol": "USD",
+        "created_at": "2023-09-23T11:26:42.798Z",
+        "updated_at": "2023-09-23T18:13:06.225Z"
+      },
+      {
+        "id": "e73aded7-e280-47ba-a8fa-75d3d0c9f73c",
+        "name": "Euro",
+        "symbol": "EUR",
+        "created_at": "2023-09-23T17:52:27.020Z",
+        "updated_at": "2023-09-23T06:29:54.694Z"
+      },
+      {
+        "id": "63070ebd-4980-4d0f-9fa0-00d891a6585a",
+        "name": "Pound",
+        "symbol": "GBP",
+        "created_at": "2023-09-23T15:17:20.559Z",
+        "updated_at": "2023-09-23T15:06:41.027Z"
+      }
+    ],
+    "market": [
+      {
+        "id": "86d7c55e-0dc2-4325-adf7-fd4dc5c1ee88",
+        "name": "Cryptocurrency Market",
+        "created_at": "2023-09-23T02:01:00.974Z",
+        "updated_at": "2023-09-23T23:06:47.782Z",
+        "currency_id": "63070ebd-4980-4d0f-9fa0-00d891a6585a",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "d9f43581-99ae-43a3-b370-42341b9beaf0",
+        "name": "Stock Market",
+        "created_at": "2023-09-23T06:23:48.725Z",
+        "updated_at": "2023-09-23T05:42:48.300Z",
+        "currency_id": "e73aded7-e280-47ba-a8fa-75d3d0c9f73c",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "35aa62de-bcec-4847-bcd1-1b34b1f59c72",
+        "name": "Forex Market",
+        "created_at": "2023-09-23T08:33:11.816Z",
+        "updated_at": "2023-09-23T03:17:26.434Z",
+        "currency_id": "e73aded7-e280-47ba-a8fa-75d3d0c9f73c",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "f7923d0c-4898-4ce6-81a6-7bc7091f151e",
+        "name": "Commodities Market",
+        "created_at": "2023-09-23T01:49:30.428Z",
+        "updated_at": "2023-09-23T01:44:43.940Z",
+        "currency_id": "ca2f330b-a24e-4950-a5bb-d74c3bc6f44e",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "2c30fd45-d5a5-4aa7-91aa-c0094136d8dd",
+        "name": "Derivatives Market",
+        "created_at": "2023-09-23T18:23:17.276Z",
+        "updated_at": "2023-09-23T02:28:21.044Z",
+        "currency_id": "9d646e49-3594-490a-8cd1-49c7eacec40d",
+        "exchange_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7898df88-2e6d-4719-be7b-729aed8e4ab7",
+        "email": "Ettie_King@roq.tech",
+        "firstName": "Parker",
+        "lastName": "Jacobi",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72538936",
+        "tenantId": null
+      },
+      {
+        "reference": "ac9f5640-9067-48f5-8e0a-105a31a4cc64",
+        "email": "Garett.Aufderhar@roq.tech",
+        "firstName": "Jimmie",
+        "lastName": "Rohan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1143.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cb2d71bd-3318-4f3d-8663-665c648bb94f",
+        "email": "Shayne11@roq.tech",
+        "firstName": "Ken",
+        "lastName": "Bailey",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/68865516",
+        "tenantId": null
+      },
+      {
+        "reference": "b7dac3a0-afef-47e9-851e-41e3daddffaf",
+        "email": "Elinor90@roq.tech",
+        "firstName": "Jessy",
+        "lastName": "Hauck",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7148520",
+        "tenantId": null
+      },
+      {
+        "reference": "e0998c8e-359f-43e9-9a9c-6c673e71dfdf",
+        "email": "Keeley_White@roq.tech",
+        "firstName": "Camylle",
+        "lastName": "Christiansen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/904.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "wallet_transactions": [
+      {
+        "id": "35df5f99-d960-4de6-a49e-61fe32bc4b4d",
+        "created_at": "2023-09-23T21:37:40.309Z",
+        "updated_at": "2023-09-23T20:51:39.730Z"
+      },
+      {
+        "id": "deeb8692-6982-4f24-a08e-a5d3094d5b4a",
+        "created_at": "2023-09-23T17:46:47.304Z",
+        "updated_at": "2023-09-23T18:46:25.827Z"
+      },
+      {
+        "id": "472d69d5-bcf3-4da3-857c-44327126fd89",
+        "created_at": "2023-09-23T21:44:26.963Z",
+        "updated_at": "2023-09-23T16:57:28.733Z"
+      },
+      {
+        "id": "a9a852e7-5103-46ea-9a42-9c89cc120f02",
+        "created_at": "2023-09-23T16:15:50.697Z",
+        "updated_at": "2023-09-23T12:10:54.421Z"
+      },
+      {
+        "id": "c4ccb079-28fe-4987-80cc-17ff8a2b50cc",
+        "created_at": "2023-09-23T17:03:47.914Z",
+        "updated_at": "2023-09-23T11:01:34.886Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "28f4f9c6-c312-473f-9a94-49ca9c780b28",
+        "created_at": "2023-09-23T03:35:19.113Z",
+        "updated_at": "2023-09-23T10:09:28.835Z"
+      },
+      {
+        "id": "8a5dada7-8c4c-46fb-81a7-0a289e665e4d",
+        "created_at": "2023-09-23T22:26:00.634Z",
+        "updated_at": "2023-09-23T06:39:30.810Z"
+      },
+      {
+        "id": "febba87c-9c1d-466b-9a33-bb77ad70d9a9",
+        "created_at": "2023-09-23T21:59:47.685Z",
+        "updated_at": "2023-09-23T04:37:18.965Z"
+      },
+      {
+        "id": "73f37038-d163-4361-ab85-d01b28690a18",
+        "created_at": "2023-09-23T00:55:50.736Z",
+        "updated_at": "2023-09-23T21:04:39.326Z"
+      },
+      {
+        "id": "fc5dc588-a1d0-4661-9c26-d087e531ce52",
+        "created_at": "2023-09-23T15:25:52.232Z",
+        "updated_at": "2023-09-23T18:55:24.683Z"
+      }
+    ],
+    "wallet": [
+      {
+        "id": "67542beb-9be7-450e-bd4d-6ee588650276",
+        "balance": 93777,
+        "created_at": "2023-09-23T22:21:50.486Z",
+        "updated_at": "2023-09-23T05:47:31.071Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fcd634b3-7308-406f-b86a-bb8eb9fcc181",
+        "balance": 78895,
+        "created_at": "2023-09-23T00:50:17.929Z",
+        "updated_at": "2023-09-23T17:28:33.065Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b826dc1e-101b-46e0-b055-44e52d5ef495",
+        "balance": 32644,
+        "created_at": "2023-09-23T15:17:49.362Z",
+        "updated_at": "2023-09-23T09:42:44.014Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9bbc1e5f-f02c-4d7d-ab09-f0743e605cf0",
+        "balance": 70547,
+        "created_at": "2023-09-23T14:27:33.336Z",
+        "updated_at": "2023-09-23T02:59:39.951Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a8634204-e55a-41c7-bcfa-39655656af4f",
+        "balance": 28959,
+        "created_at": "2023-09-23T01:44:27.753Z",
+        "updated_at": "2023-09-23T07:44:42.149Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trade_history": [
+      {
+        "id": "341e8ed5-34f5-477f-9a8b-7fb41b0c7954",
+        "created_at": "2023-09-23T16:07:09.620Z",
+        "updated_at": "2023-09-23T19:05:25.046Z"
+      },
+      {
+        "id": "00df9159-5a66-4a3d-bb41-374cb4797585",
+        "created_at": "2023-09-23T04:33:06.832Z",
+        "updated_at": "2023-09-23T09:31:40.451Z"
+      },
+      {
+        "id": "62a64a1c-fb35-4b2b-a8cb-484e5ead5fc4",
+        "created_at": "2023-09-23T23:29:53.913Z",
+        "updated_at": "2023-09-23T09:12:48.428Z"
+      },
+      {
+        "id": "470f7abc-ec1b-4963-b59a-8f05b92f91d6",
+        "created_at": "2023-09-23T07:25:21.313Z",
+        "updated_at": "2023-09-23T07:04:27.326Z"
+      },
+      {
+        "id": "a5208d20-2b0c-4c9f-909c-6e162e41d5f8",
+        "created_at": "2023-09-23T20:31:35.943Z",
+        "updated_at": "2023-09-23T10:37:00.913Z"
+      }
+    ],
+    "security_settings": [
+      {
+        "id": "7ce7f1ee-87cf-407a-8f80-9a6128c44616",
+        "created_at": "2023-09-23T04:56:21.677Z",
+        "updated_at": "2023-09-23T22:59:44.384Z"
+      },
+      {
+        "id": "dc6dcd6f-7934-441c-bf8d-a0849cd2d4af",
+        "created_at": "2023-09-23T12:57:55.806Z",
+        "updated_at": "2023-09-23T01:07:28.117Z"
+      },
+      {
+        "id": "b41adb99-4577-4f85-aa19-488f344d729d",
+        "created_at": "2023-09-23T10:01:53.023Z",
+        "updated_at": "2023-09-23T01:46:48.538Z"
+      },
+      {
+        "id": "355d8baf-6967-42eb-91d8-f4d6fdbad2eb",
+        "created_at": "2023-09-23T05:36:07.421Z",
+        "updated_at": "2023-09-23T19:07:02.326Z"
+      },
+      {
+        "id": "216c86f9-c260-45de-89e8-e4e276708292",
+        "created_at": "2023-09-23T05:07:23.162Z",
+        "updated_at": "2023-09-23T22:16:04.016Z"
+      }
+    ],
+    "market_trends": [
+      {
+        "id": "13fabb83-6a3d-459f-8e5c-f110bb4b91e5",
+        "created_at": "2023-09-23T02:35:54.406Z",
+        "updated_at": "2023-09-23T17:12:21.150Z"
+      },
+      {
+        "id": "2c957b9c-ca25-4ffa-808a-92572e245449",
+        "created_at": "2023-09-23T07:02:48.235Z",
+        "updated_at": "2023-09-23T13:53:42.659Z"
+      },
+      {
+        "id": "28a68b99-7c41-44bd-81b7-d5bddd52a307",
+        "created_at": "2023-09-23T03:43:38.374Z",
+        "updated_at": "2023-09-23T14:30:47.773Z"
+      },
+      {
+        "id": "e71c0c5f-14d9-48b2-8bfb-11ffd00e7ae1",
+        "created_at": "2023-09-23T12:23:13.084Z",
+        "updated_at": "2023-09-23T00:58:18.384Z"
+      },
+      {
+        "id": "3c50b442-44d7-479d-90d7-79832719ea75",
+        "created_at": "2023-09-23T01:06:39.086Z",
+        "updated_at": "2023-09-23T13:59:09.067Z"
+      }
+    ],
+    "transaction": [
+      {
+        "id": "44f7612a-d4b4-4608-8380-9aadc4f335da",
+        "amount": 17204,
+        "transaction_type": "Buy",
+        "transaction_date": "2023-09-23T03:10:43.727Z",
+        "status": "Pending",
+        "created_at": "2023-09-23T06:58:05.586Z",
+        "updated_at": "2023-09-23T05:08:22.341Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "06aafe13-93f4-4f4a-8b1e-cb39b996923e",
+        "amount": 48159,
+        "transaction_type": "Sell",
+        "transaction_date": "2023-09-23T19:06:01.148Z",
+        "status": "Completed",
+        "created_at": "2023-09-23T21:03:44.570Z",
+        "updated_at": "2023-09-23T21:13:58.443Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c57b74ee-42fb-4184-b0bf-004240ec8f80",
+        "amount": 57532,
+        "transaction_type": "Deposit",
+        "transaction_date": "2023-09-23T01:01:55.510Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-23T12:06:01.342Z",
+        "updated_at": "2023-09-23T15:53:50.465Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8a715b78-33bc-47db-a9ab-dc975f3e59fc",
+        "amount": 27136,
+        "transaction_type": "Withdraw",
+        "transaction_date": "2023-09-23T14:28:54.028Z",
+        "status": "Failed",
+        "created_at": "2023-09-23T12:40:44.627Z",
+        "updated_at": "2023-09-23T06:14:31.481Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "293c99ec-f1be-4805-a891-6b5d0ad15b09",
+        "amount": 31981,
+        "transaction_type": "Transfer",
+        "transaction_date": "2023-09-23T22:40:09.127Z",
+        "status": "Processing",
+        "created_at": "2023-09-23T06:04:29.234Z",
+        "updated_at": "2023-09-23T12:31:10.662Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "currency": [
+      {
+        "id": "c2a48261-67b0-4f0f-800c-9ada19286482",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "created_at": "2023-09-24T00:03:15.098Z",
+        "updated_at": "2023-09-23T12:25:06.074Z"
+      },
+      {
+        "id": "f5558ce0-9df0-4b3a-85a0-a48b907ca580",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "created_at": "2023-09-23T16:35:01.135Z",
+        "updated_at": "2023-09-23T03:38:47.338Z"
+      },
+      {
+        "id": "fe63d20e-800a-41f5-ac30-2ed92f4b67ca",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "created_at": "2023-09-23T13:55:07.321Z",
+        "updated_at": "2023-09-23T20:36:40.668Z"
+      },
+      {
+        "id": "88bae11a-5319-4edb-81cd-b0dca5e4e3ee",
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "created_at": "2023-09-23T05:15:56.419Z",
+        "updated_at": "2023-09-23T13:12:37.255Z"
+      },
+      {
+        "id": "2d595153-d3e7-4fed-a8f4-b22ad8ebbcfc",
+        "name": "Bitcoin Cash",
+        "symbol": "BCH",
+        "created_at": "2023-09-23T06:35:17.574Z",
+        "updated_at": "2023-09-23T21:29:55.387Z"
+      }
+    ],
+    "market": [
+      {
+        "id": "ba697df1-2207-4788-92f2-aa0c17e1a1d2",
+        "name": "Stock Market",
+        "created_at": "2023-09-23T17:48:05.014Z",
+        "updated_at": "2023-09-23T13:05:23.582Z",
+        "currency_id": "88bae11a-5319-4edb-81cd-b0dca5e4e3ee",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "0df72fb9-1e7a-4f9e-9afc-e7c508ddb521",
+        "name": "Cryptocurrency Market",
+        "created_at": "2023-09-23T22:31:44.997Z",
+        "updated_at": "2023-09-23T04:31:07.758Z",
+        "currency_id": "88bae11a-5319-4edb-81cd-b0dca5e4e3ee",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "adaabf3c-1b6a-4d4c-9b40-c1bc625b4bdf",
+        "name": "Foreign Exchange Market",
+        "created_at": "2023-09-23T04:30:18.483Z",
+        "updated_at": "2023-09-23T21:40:17.212Z",
+        "currency_id": "2d595153-d3e7-4fed-a8f4-b22ad8ebbcfc",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "084dcdf7-0a4e-405c-b0f4-ff8d0750b5c9",
+        "name": "Commodity Market",
+        "created_at": "2023-09-23T13:55:03.796Z",
+        "updated_at": "2023-09-23T01:41:09.078Z",
+        "currency_id": "f5558ce0-9df0-4b3a-85a0-a48b907ca580",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "a1758e34-a99c-44e9-b3dc-a01ec48c4b07",
+        "name": "Derivatives Market",
+        "created_at": "2023-09-23T15:56:59.849Z",
+        "updated_at": "2023-09-23T13:06:20.099Z",
+        "currency_id": "f5558ce0-9df0-4b3a-85a0-a48b907ca580",
+        "exchange_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "479a2972-3cd2-4745-bbcd-610f746f953f",
+        "email": "Dedrick.Zieme@roq.tech",
+        "firstName": "Isaiah",
+        "lastName": "Reichel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/173.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "efcc1d3a-9b85-426b-aeca-ba533180d1ca",
+        "email": "Wilford.Bernier99@roq.tech",
+        "firstName": "Gage",
+        "lastName": "Sawayn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29242153",
+        "tenantId": null
+      },
+      {
+        "reference": "d5470515-35c0-4cdc-9808-925d7434bff5",
+        "email": "Trisha_Deckow46@roq.tech",
+        "firstName": "Randal",
+        "lastName": "Lubowitz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99682530",
+        "tenantId": null
+      },
+      {
+        "reference": "c4bda297-011c-4a9f-b9cf-c82aff9c6c46",
+        "email": "Marilie.Tromp-Rippin76@roq.tech",
+        "firstName": "Forrest",
+        "lastName": "Rodriguez",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52728810",
+        "tenantId": null
+      },
+      {
+        "reference": "c0f40cbd-8609-4701-a53e-f644288bc529",
+        "email": "Kailey_Jenkins25@roq.tech",
+        "firstName": "Anderson",
+        "lastName": "Rau",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44937308",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "wallet_transactions": [
+      {
+        "id": "76e5ab50-e049-4d55-8441-82cf0a475d23",
+        "created_at": "2023-09-23T06:53:45.040Z",
+        "updated_at": "2023-09-23T08:47:47.813Z"
+      },
+      {
+        "id": "d9122407-a620-4a63-92c5-904c12dd5d6c",
+        "created_at": "2023-09-23T19:13:21.897Z",
+        "updated_at": "2023-09-23T09:53:25.551Z"
+      },
+      {
+        "id": "03697894-f332-40b1-88c8-3ab0ddd8718d",
+        "created_at": "2023-09-23T08:46:06.102Z",
+        "updated_at": "2023-09-23T12:02:21.860Z"
+      },
+      {
+        "id": "aa7703ea-fed3-4009-a0ff-14e090095e4f",
+        "created_at": "2023-09-23T04:14:48.050Z",
+        "updated_at": "2023-09-23T22:34:00.072Z"
+      },
+      {
+        "id": "4b8df536-69a2-40b8-82ca-f979e4349bf7",
+        "created_at": "2023-09-23T10:21:59.451Z",
+        "updated_at": "2023-09-23T18:27:42.654Z"
+      }
+    ],
+    "user_preferences": [
+      {
+        "id": "88527c3c-6100-42f6-94a8-3c8f733f6474",
+        "created_at": "2023-09-23T00:14:56.866Z",
+        "updated_at": "2023-09-23T04:49:02.009Z"
+      },
+      {
+        "id": "22028903-1d59-4777-af8b-bf88f1272d4d",
+        "created_at": "2023-09-23T17:20:40.855Z",
+        "updated_at": "2023-09-23T09:20:01.579Z"
+      },
+      {
+        "id": "37c82c59-afb9-438c-9808-4ea8b5cfff8d",
+        "created_at": "2023-09-23T17:58:31.423Z",
+        "updated_at": "2023-09-23T02:37:06.737Z"
+      },
+      {
+        "id": "59c7765c-1795-4fb6-9b6a-6552a3ed1957",
+        "created_at": "2023-09-23T22:45:42.480Z",
+        "updated_at": "2023-09-23T08:34:33.965Z"
+      },
+      {
+        "id": "09a9a138-25f5-4935-a78a-e2c868ad14e5",
+        "created_at": "2023-09-23T11:03:51.524Z",
+        "updated_at": "2023-09-23T02:13:19.453Z"
+      }
+    ],
+    "wallet": [
+      {
+        "id": "c63a0b1e-ae50-4183-a94c-c3d56b0ed5ef",
+        "balance": 54649,
+        "created_at": "2023-09-23T07:55:56.990Z",
+        "updated_at": "2023-09-23T18:11:01.201Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ace26fe9-a767-49e5-98e6-b3970905eeaf",
+        "balance": 1226,
+        "created_at": "2023-09-23T10:49:03.414Z",
+        "updated_at": "2023-09-23T20:07:07.647Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "383b652a-96f7-42ca-830c-8eb7fb141f1a",
+        "balance": 29899,
+        "created_at": "2023-09-23T00:35:24.561Z",
+        "updated_at": "2023-09-23T02:47:16.290Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "907783c3-7462-4225-93b7-ff2cee9ea948",
+        "balance": 65469,
+        "created_at": "2023-09-23T23:16:01.703Z",
+        "updated_at": "2023-09-23T20:35:49.599Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3060cb28-a151-418a-a23c-8c01eb9e9619",
+        "balance": 756,
+        "created_at": "2023-09-23T18:27:30.372Z",
+        "updated_at": "2023-09-23T10:20:06.267Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "trade_history": [
+      {
+        "id": "31f98419-237c-4eca-89f7-ee5f7513f6a1",
+        "created_at": "2023-09-23T05:27:12.382Z",
+        "updated_at": "2023-09-23T11:06:21.640Z"
+      },
+      {
+        "id": "496c1f8f-5a2d-4b74-a1ad-d826cae2f466",
+        "created_at": "2023-09-23T20:00:37.448Z",
+        "updated_at": "2023-09-23T19:57:06.815Z"
+      },
+      {
+        "id": "ae7f5a7c-d50f-4a11-b5fb-a8a2b53568d8",
+        "created_at": "2023-09-23T21:59:53.329Z",
+        "updated_at": "2023-09-23T05:58:07.834Z"
+      },
+      {
+        "id": "569237f3-8c03-4a69-96e2-5f31687da7ba",
+        "created_at": "2023-09-23T14:02:18.728Z",
+        "updated_at": "2023-09-23T11:00:49.970Z"
+      },
+      {
+        "id": "8e8ac63d-8ef5-4225-bbcf-d25c967914fd",
+        "created_at": "2023-09-23T21:20:38.007Z",
+        "updated_at": "2023-09-23T19:07:14.233Z"
+      }
+    ],
+    "security_settings": [
+      {
+        "id": "09c92d40-70af-4473-9c98-09b1f818766e",
+        "created_at": "2023-09-23T08:38:45.301Z",
+        "updated_at": "2023-09-23T14:40:24.057Z"
+      },
+      {
+        "id": "0218d29c-3fbf-445f-81c6-64a1dd7e917b",
+        "created_at": "2023-09-23T02:17:10.817Z",
+        "updated_at": "2023-09-23T10:34:34.508Z"
+      },
+      {
+        "id": "9de8b61d-0d06-4a80-a2d7-d86624b91bef",
+        "created_at": "2023-09-23T04:34:24.904Z",
+        "updated_at": "2023-09-23T01:50:14.797Z"
+      },
+      {
+        "id": "54f105a9-c64b-4f84-b0bf-740cf4fed03a",
+        "created_at": "2023-09-23T05:26:48.774Z",
+        "updated_at": "2023-09-23T08:07:28.268Z"
+      },
+      {
+        "id": "57037707-5cf2-424c-925e-cda199d29c43",
+        "created_at": "2023-09-23T23:00:44.535Z",
+        "updated_at": "2023-09-23T21:07:21.802Z"
+      }
+    ],
+    "market_trends": [
+      {
+        "id": "5b7bcd4c-a4a0-48c3-b4fd-94445c0a1f1e",
+        "created_at": "2023-09-23T05:54:17.504Z",
+        "updated_at": "2023-09-23T18:15:11.377Z"
+      },
+      {
+        "id": "da387cf4-1fb6-4955-8597-f0259085baab",
+        "created_at": "2023-09-23T12:04:54.984Z",
+        "updated_at": "2023-09-23T14:32:03.640Z"
+      },
+      {
+        "id": "a42ae397-dde0-4f3c-b9da-f8f8016253c9",
+        "created_at": "2023-09-23T23:06:15.356Z",
+        "updated_at": "2023-09-24T00:06:14.634Z"
+      },
+      {
+        "id": "4ced3627-4cb0-46f7-bb40-72d22be9cf92",
+        "created_at": "2023-09-23T03:57:47.853Z",
+        "updated_at": "2023-09-23T02:29:01.067Z"
+      },
+      {
+        "id": "13004e02-7450-4b77-8933-2f9715d60fff",
+        "created_at": "2023-09-23T08:43:15.428Z",
+        "updated_at": "2023-09-23T00:48:05.752Z"
+      }
+    ],
+    "transaction": [
+      {
+        "id": "41480f73-469a-4b33-abf4-ac280243c85e",
+        "amount": 51781,
+        "transaction_type": "Buy",
+        "transaction_date": "2023-09-23T22:02:44.188Z",
+        "status": "Pending",
+        "created_at": "2023-09-23T05:13:54.449Z",
+        "updated_at": "2023-09-23T05:29:06.084Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ad537532-02b0-40f8-b935-1caef640b77c",
+        "amount": 9711,
+        "transaction_type": "Sell",
+        "transaction_date": "2023-09-23T05:54:02.785Z",
+        "status": "Completed",
+        "created_at": "2023-09-23T00:51:47.596Z",
+        "updated_at": "2023-09-23T19:29:29.801Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "10c80ad7-ca2e-463e-9072-6ffa17e9dcf8",
+        "amount": 76035,
+        "transaction_type": "Deposit",
+        "transaction_date": "2023-09-23T14:32:38.296Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-23T20:40:59.336Z",
+        "updated_at": "2023-09-23T08:17:43.915Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2cc75fe2-7012-481f-91d8-cb898534cf98",
+        "amount": 69486,
+        "transaction_type": "Withdraw",
+        "transaction_date": "2023-09-23T20:35:28.767Z",
+        "status": "Failed",
+        "created_at": "2023-09-23T20:06:21.469Z",
+        "updated_at": "2023-09-24T00:05:09.769Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f1fe732-4da9-4806-b117-b757291c65f4",
+        "amount": 14211,
+        "transaction_type": "Transfer",
+        "transaction_date": "2023-09-23T18:09:07.104Z",
+        "status": "Processing",
+        "created_at": "2023-09-24T00:00:18.564Z",
+        "updated_at": "2023-09-23T12:53:58.552Z",
+        "exchange_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "currency": [
+      {
+        "id": "58831e02-2051-43d0-9e6c-a8032c6fe93c",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "created_at": "2023-09-23T09:14:09.679Z",
+        "updated_at": "2023-09-23T02:17:43.944Z"
+      },
+      {
+        "id": "458d0249-098d-415a-8356-12ecd40038ea",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "created_at": "2023-09-23T09:05:54.551Z",
+        "updated_at": "2023-09-23T05:32:43.673Z"
+      },
+      {
+        "id": "cc183bbe-c2fe-4ea6-9dc4-2d4f54e21494",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "created_at": "2023-09-23T13:43:59.708Z",
+        "updated_at": "2023-09-23T21:56:21.107Z"
+      },
+      {
+        "id": "722561a4-9c7c-42d3-863e-b8f27a4e4706",
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "created_at": "2023-09-23T00:25:41.593Z",
+        "updated_at": "2023-09-23T21:44:19.692Z"
+      },
+      {
+        "id": "8c83e835-72f4-4435-b64f-11e80f7dd8d4",
+        "name": "Cardano",
+        "symbol": "ADA",
+        "created_at": "2023-09-23T04:55:29.049Z",
+        "updated_at": "2023-09-23T14:26:04.949Z"
+      }
+    ],
+    "market": [
+      {
+        "id": "6957db6f-431f-4598-9454-7c40d55dce18",
+        "name": "Cryptocurrency Market",
+        "created_at": "2023-09-23T22:43:50.934Z",
+        "updated_at": "2023-09-23T12:51:30.848Z",
+        "currency_id": "cc183bbe-c2fe-4ea6-9dc4-2d4f54e21494",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "01c12855-319b-426a-aca0-a3e4c6fb0dad",
+        "name": "Stock Market",
+        "created_at": "2023-09-23T13:46:27.661Z",
+        "updated_at": "2023-09-23T18:48:10.829Z",
+        "currency_id": "8c83e835-72f4-4435-b64f-11e80f7dd8d4",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "98dd1bad-7af3-41ed-9c04-3d54f9e96548",
+        "name": "Commodity Market",
+        "created_at": "2023-09-23T16:36:36.215Z",
+        "updated_at": "2023-09-23T13:43:48.942Z",
+        "currency_id": "8c83e835-72f4-4435-b64f-11e80f7dd8d4",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "ef050886-53bf-4dad-9b01-d1f01b930037",
+        "name": "Forex Market",
+        "created_at": "2023-09-23T04:37:57.544Z",
+        "updated_at": "2023-09-23T01:27:55.956Z",
+        "currency_id": "8c83e835-72f4-4435-b64f-11e80f7dd8d4",
+        "exchange_id": "main_entity_pk"
+      },
+      {
+        "id": "20b27765-08f5-4b4e-b904-f887aeca75cb",
+        "name": "Options Market",
+        "created_at": "2023-09-23T08:28:06.236Z",
+        "updated_at": "2023-09-23T10:13:34.773Z",
+        "currency_id": "58831e02-2051-43d0-9e6c-a8032c6fe93c",
+        "exchange_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f683f2f1-8702-4b1f-839d-cfe89e5c1d19",
+        "email": "Deanna_Kshlerin52@roq.tech",
+        "firstName": "Marta",
+        "lastName": "Powlowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/201.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e5c74e5c-415e-4aa9-8931-dd2663fae46d",
+        "email": "Mekhi52@roq.tech",
+        "firstName": "Kasandra",
+        "lastName": "Franecki",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/981.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "21a61d92-bc90-48d7-be43-f5259eb436bd",
+        "email": "Victor96@roq.tech",
+        "firstName": "Liliana",
+        "lastName": "Padberg",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19387280",
+        "tenantId": null
+      },
+      {
+        "reference": "65ba7897-f884-4781-9d3e-27d9b891b41b",
+        "email": "Camren.Pfannerstill@roq.tech",
+        "firstName": "Carey",
+        "lastName": "Feeney",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/270.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bc0e0d3d-e06e-48bf-9d0e-0660e25abc82",
+        "email": "Donavon36@roq.tech",
+        "firstName": "America",
+        "lastName": "Hartmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71788576",
+        "tenantId": null
+      }
+    ]
+  }
+]
